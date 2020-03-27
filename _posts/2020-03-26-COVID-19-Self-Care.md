@@ -21,7 +21,7 @@ The following is a summary list from an audio recording of things learned by the
 ### General Care for Viral Exposures
 
 1. Social distancing, disposal (if possible) of continamated items, sanitizing of hands and surfaces (where viruses can survive for long periods of time).
-2. Warm fluids, sipping every 20 minutes to keep the mucous membranes, inner vessels and spaces moist, especially caffeine free teas, lemon and honey, etc, so toxins can be easily disspelled from the body.
+2. Warm fluids, sipping every 20 minutes to keep the mucous membranes, inner vessels and spaces moist, so toxins can be easily disspelled from the body (caffeine free teas, lemon and honey, etc)
 3. Moving the body, expanding the airways and lungs as much as possible
 4. Lots of fruits and veges.
 5. Good sleep.
