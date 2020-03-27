@@ -6,7 +6,7 @@ categories: CNA
 
 We live in an era of primarily "all or nothing" in so many aspects of life. This even applies to modern so-called health-care, and it greatly dismays me.
 
-As I watch people waiting in lines and fighting for and going in and out of their homes with hand-sanitizers, cleaners, and paper products, I kind of chuckle but yet think it is NOT funny. People need much more than that. And, they need to FEEL they have power within themselves to fend off any illness!
+As I watch people waiting in lines and fighting for and going in and out of their homes with hand-sanitizers, cleaners, and paper products, I kind of chuckle but yet think it is NOT funny. People need much more than that. And, they need to FEEL they have much more power than that to fend off illness!
 
 ![Wellness-Illness Continuum](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-03/sb/continuum-68917881.jpg?ts=1585255348)
 
