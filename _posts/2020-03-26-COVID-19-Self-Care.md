@@ -25,7 +25,7 @@ The following is a summary list from an audio recording of things learned by the
 3. Moving the body, expanding the airways and lungs as much as possible
 4. Lots of fruits and veges.
 5. Good sleep.
-6. Exercise, especially in the sunshine and fresh air.
+6. Regular doses of fresh air and sunshine.
 7. Positive mental outlook. This includes knowing our bodies are very capable of successfully fighting viruses which then compounds that inner strength.
 8. Vitamin C, D, zinc....There are many immune-boosting herbs and spices, including those with anti-bacterial/viral/fungal activity. Do your research.
 
