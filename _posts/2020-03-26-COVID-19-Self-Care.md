@@ -21,10 +21,10 @@ The following is a summary list from an audio recording of things learned by the
 ### General Care for Viral Exposures
 
 1. Social distancing, disposal (if possible) of continamated items, sanitizing of hands and surfaces (where viruses can survive for long periods of time).
-2. Warm fluids, sipping every 20 minutes to keep the mucous membranes and throat, especially caffeine free teas, lemon and honey, etc.
-3. Moving the body, expanding the airways and lungs.
+2. Warm fluids, sipping every 20 minutes to keep the mucous membranes, inner vessels and spaces moist, especially caffeine free teas, lemon and honey, etc, so toxins can be easily disspelled from the body.
+3. Moving the body, expanding the airways and lungs as much as possible
 4. Lots of fruits and veges.
-5. Rest.
+5. Good sleep.
 6. Exercise, especially in the sunshine and fresh air.
 7. Positive mental outlook. This includes knowing our bodies are very capable of successfully fighting viruses which then compounds that inner strength.
 8. Vitamin C, D, zinc....There are many immune-boosting herbs and spices, including those with anti-bacterial/viral/fungal activity. Do your research.
@@ -35,4 +35,4 @@ The first goal is to send virus particles to the stomach for destruction by stom
 
 As is, the media says people have more than an 80% chance of surviving this novel virus. Improve your individual chances by exercising self-care daily for optimum health. Focus less on media drama.
 
-Disclaimer: This is not intended as medical advice. All readers are responsible for meeting their own health-care needs as they see fit.
+Disclaimer: This is not intended as medical advice. All readers are responsible for meeting their own health-care needs as they see fit. Note that discomfort/difficulty with breathing, shortness of breath, and poor skin color are signs that medical intervention needs consideration.
