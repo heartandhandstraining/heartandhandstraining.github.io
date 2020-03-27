@@ -3,8 +3,8 @@ tagline: forever dedicated to learning and teaching new things
 
 description: Full-Stack Web Developer & Network Engineer Trainee. Self-Employed CNA/AHA Instructor, Past Long-Term Care Administrator & Shepherd/Fiber Arts Enthusiast
 email: heartandhandstraining@pm.me
-url: "http://www.heartandhandstraining.com" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://www.heartandhandstraining.com/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 author: Dawn Ann,RN,MBA
 share: true
 
@@ -12,7 +12,7 @@ date:
 update: 
 
 categories: [CNA, WEB, VSA]
-permalink: /:title/
+permalink: :title/
 
 # twitter_username: VikingSheepart
 # github_username:  HeartAndHandsTraining
