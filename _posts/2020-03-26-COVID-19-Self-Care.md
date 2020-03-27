@@ -6,7 +6,7 @@ categories: CNA
 
 We live in an era of primarily "all or nothing" in so many aspects of life. This even applies to modern so-called health-care, and it greatly dismays me.
 
-As I watch people waiting in lines and fighting for and going in and out of their homes with hand-sanitizers, cleaners, and paper products, I kind of chuckle and shake my head. These things seem to be the primary and essential armor against illness when truly they should be a small  part that does not to instill fear in people if not available.
+As I watch people waiting in lines and fighting for and going in and out of their homes with hand-sanitizers, cleaners, and paper products, I kind of chuckle but think it is NOT funny. People need much more than that and they need to FEEL they have more, like they have more power within themselve to fight against illness! 
 
 ![Wellness-Illness Continuum](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-03/sb/continuum-68917881.jpg?ts=1585255348)
 
@@ -26,7 +26,7 @@ The following is a summary list from an audio recording of things learned by the
 4. Lots of fruits and veges.
 5. Rest.
 6. Exercise, especially in the sunshine and fresh air.
-7. Positive mental outlook.
+7. Positive mental outlook. This includes knowing our bodies are very capable of successfully fighting viruses which then compounds that inner strength.
 8. Vitamin C, D, zinc....There are many immune-boosting herbs and spices, including those with anti-bacterial/viral/fungal activity. Do your research.
 
 I will update this if and as I think of other important points or clarification. It sounds almost too simple. These habits should be part of everyday life and taught and promoted in throughout childhood and carried into adulthood to maintain a higher level of wellness. 
