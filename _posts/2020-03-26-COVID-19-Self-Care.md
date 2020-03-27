@@ -35,4 +35,4 @@ The first goal is to send virus particles to the stomach for destruction by stom
 
 As is, the media says people have more than an 80% chance of surviving this novel virus. Improve your individual chances by exercising self-care daily for optimum health. Focus less on media drama.
 
-Disclaimer: This is not intended as medical advice. All readers are responsible for meeting their own health-care needs as they see fit. Note that discomfort/difficulty with breathing, shortness of breath, and poor skin color are signs that medical intervention needs consideration.
+Disclaimer: This is not intended as medical advice. All readers are responsible for meeting their own health-care needs as they see fit. Note that discomfort/difficulty with breathing, shortness of breath, and poor skin color are signs that medical intervention needs consideration to get the airways cleared and functioning properly.
