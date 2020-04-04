@@ -1,13 +1,13 @@
 ---
 layout: page
 title: All
-date: 2020-03-06
+date: 2020-04-04
 tagline: Topics and Posts Lists
 ref: 0
 ---
 <div class = "container-fluid">
   <div class = "row justify-content-center">
-    TOPICS:&nbsp;<a title="Certified Nurse Aide -Related posts" href="#CNA">CNA</a>,&nbsp;<a title="Web Development & Networking -Related posts" href="#WEB">WEB</a>,&nbsp;<a title="Fiber Arts and Viking Sheep -Related posts" href="#VSA">VSA</a>
+    TOPIC:&nbsp;<a title="Certified Nurse Aide -Related posts" href="#CNA">CNA</a>,&nbsp;<a title="God and Faith-related posts" href="#CNA">GOD</a>,&nbsp;<a title="Web Development & Networking -Related posts" href="#WEB">WEB</a>,&nbsp;<a title="Fiber Arts and Viking Sheep -Related posts" href="#VSA">VSA</a>
   </div>
   <hr/>
 {% for category in site.categories %}
