@@ -4,7 +4,7 @@ title: Mom is Free!
 categories: CNA
 ---
 
-I must add to the following because my Mom was so much more than this: [Sandra Beattie](https://www.hkfuneralhome.com/en-memorium/sandra-d-beattie)
+I must add to the following because my Mom was awesome! [Sandra Beattie](https://www.hkfuneralhome.com/en-memorium/sandra-d-beattie)
 
 My Mom is now resting in peace, no more pain, no more frustration with being caged up in her own body and dependent on others for most everything. She spent most the past 10 years in a nursing home.
 
