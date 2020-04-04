@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Now
-date: 2020-03-27
+date: 2020-04-04
 tagline: What I'm doing now
 ref: now
 order: 0
@@ -9,7 +9,7 @@ order: 0
 
 Today I took some time to address the COVID-19 issue.
 
-I just have to post this amazing and inspirational link: [Faith: Silly or Significant](https://greensock.com/faith/). I stumbled upon this man's journey from Atheism to Christianity in trying to make a decision as to whether to use Snapsvg or Greensock for assistance in advancing my new SVG animation skills.
+I just have to post this amazing and inspirational link: [Faith: Silly or Significant](https://greensock.com/faith/). I stumbled upon man's story of his journey from Atheism to Christianity in trying to make a decision as to whether to use Snapsvg or Greensock for assistance in advancing my new SVG animation skills.
 
 I am working on miscellaneous cleanup and prettifying my site.
 A few days ago, I added an initial css-animated logo to the Contact Page.
