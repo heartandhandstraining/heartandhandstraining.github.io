@@ -7,7 +7,7 @@ ref: now
 order: 0
 ---
 
-I recently took some time to address the COVID-19 issue. Today I started a little page about my Mom, who I just lost on April 01, 2020.
+I recently took some time to address the COVID-19 issue. Today I started a little page about my Mom, who I just lost on April 02, 2020.
 
 This is such an amazing and inspirational link, [Faith: Silly or Significant](https://greensock.com/faith/). I stumbled upon man's story of his journey from Atheism to Christianity in trying to make a decision as to whether to use Snapsvg or Greensock for assistance in advancing my new SVG animation skills.
 
