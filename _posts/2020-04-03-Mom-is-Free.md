@@ -4,7 +4,7 @@ title: Mom is Free!
 categories: CNA
 ---
 
-I have so much more than the following to say about my Mom. [Sandra Beattie](https://www.hkfuneralhome.com/en-memorium/sandra-d-beattie)
+I have so much more than the following to say about my Mom: [Sandra Beattie](https://www.hkfuneralhome.com/en-memorium/sandra-d-beattie).
 
 My Mom is now resting in peace, no more pain, no more frustration with being caged up in her own body and dependent on others for most everything. She spent most the past 10 years in a nursing home.
 
