@@ -11,7 +11,7 @@ My Mom is now resting in peace, no more pain, no more frustration with being cag
 
 As a CNA, I told myself and my parents that I would not have them going to a nursing home, never! Well, at that time I never imagined a parent of mine with such a disease so debilitating as MS can be.
 
-She was diagnosed with MS in 1983 and by about 1993, she was wheelchair-bound. For about 20 years, until his passing my Dad provided top-notch, full-time "nursing" care to my Mom. She had to what only could be dreamed of for personal care, so landing one of the best nursing homes I have seen was real hard to swallow. And, oh, the guilt trips all of us kids had to experence! It was hard for Mom to imagine that one of us kids just could not have done it on our own for sure!
+She was diagnosed with MS in 1983 and by about 1993, she was wheelchair-bound. For about 20 years, until his passing my Dad provided her top-notch, full-time "nursing" care. She had only what could be dreamed of for personal care, so landing one of the best nursing homes I have seen was real hard to swallow. And, oh, the guilt trips all of us kids had to experence! It was hard for Mom to imagine that one of us kids just could not have done it on our own for sure!
 
 Her cats, were always a great comfort. I am hoping her last cat, Rosebud is allowed to stay at the nursing home, such a loyal friend. She knows no other home.
 
