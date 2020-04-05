@@ -7,7 +7,7 @@ ref: 0
 ---
 <div class = "container-fluid">
   <div class = "row justify-content-center">
-    TOPIC:&nbsp;<a title="Certified Nurse Aide -Related posts" href="#CNA">CNA</a>,&nbsp;<a title="God and Faith-related posts" href="#GOD">GOD</a>,&nbsp;<a title="Web Development & Networking -Related posts" href="#WEB">WEB</a>,&nbsp;<a title="Fiber Arts and Viking Sheep -Related posts" href="#VSA">VSA</a>
+    TOPIC:&nbsp;<a title="Certified Nurse Aide -Related posts" href="#CNA">CNA</a>,&nbsp;<a title="Web Development & Networking -Related posts" href="#WEB">WEB</a>,&nbsp;<a title="God and Faith-related posts" href="#GOD">GOD</a>,&nbsp;<a title="Fiber Arts and Viking Sheep -Related posts" href="#VSA">VSA</a>
   </div>
   <hr/>
 {% for category in site.categories %}
