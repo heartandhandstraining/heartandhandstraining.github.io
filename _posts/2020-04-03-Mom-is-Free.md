@@ -17,7 +17,7 @@ Her cats, were always a great comfort. I am hoping her last cat, Rosebud is allo
 
 I loved my Mom dearly, and I want to talk about who my Mom really was in the best years of her adult life, before she was afflicted with this cruel disease.
 
-Mom is known by at least 2 of her younger siblings as the only Mom, they knew. Because of her parents divorce, she said she did not want marriage and kids until she met Dad, and then she knew she "had been had." 
+Mom is known by at least 2 of her younger siblings as the only Mom, they knew. Because of her parents divorce and until she met Dad, she said she did not want marriage and kids. When she met Dad she knew she "had been had." 
 
 I remember when Mom got her diamond ring on her tenth wedding anniversary. She explained that she told Dad she did not want a diamond ring until she had been married 10 years. She wanted to make sure her marriage would be a lasting one. She wanted to "earn" her diamond.
 
