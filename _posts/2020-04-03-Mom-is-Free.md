@@ -15,7 +15,7 @@ She was diagnosed with MS in 1983 and by about 1993, she was wheelchair-bound. F
 
 Her cats, were always a great comfort. I am hoping her last cat, Rosebud is allowed to stay at the nursing home, such a loyal friend. She knows no other home.
 
-I loved my Mom dearly, and I want to talk about who my Mom really was in the best years of her adult life, before she was afflicted with this cruel disease.
+I loved my Mom dearly, and I want to talk about who my Mom really was in the best years of her adult life, before she was afflicted with this cruel disease. She was a woman of faith, and even though it was difficult and at times her faith was dimmer, she never lost hope. She did have her a dear friend, Marsha, those last years of her life visiting her and helping her hang on to her faith.
 
 Mom is known by at least 2 of her younger siblings as the only Mom, they knew. Because of her parents divorce and until she met Dad, she said she did not want marriage and kids. When she met Dad she knew she "had been had." 
 
