@@ -9,7 +9,7 @@ I have so much more than the following to say about my Mom: [Sandra Beattie](htt
 
 My Mom is now resting in peace, no more pain, no more frustration with being caged up in her own body and dependent on others for most everything. She spent most the past 10 years in a nursing home.
 
-As a CNA, I told myself and my parents that I would not have them going to a nursing home, never! Well, at that time I never imagined a parent of mine with such a disease so debilitating as MS can be.
+As a CNA, I told myself and my parents that I would not have them going to a nursing home, never! Well, at that time I never imagined a parent of MINE with such a disease so debilitating as MS can be. That was just a few people in the nursing home. Bizarre thing is that a lady a took special care of with MS followed me as a CNA from Grand Junction to Paonia, where my parents helped me take her to the 4th of July firworks. That fall after I went off to college is when Mom was diagnosed with MS, a couple weeks after Mom called me to say that this special lady had passed away due to a complication of MS. Damn crazy!
 
 She was diagnosed with MS in 1983 and by about 1993, she was wheelchair-bound. For about 20 years, until his passing my Dad provided her top-notch, full-time "nursing" care. She had only what could be dreamed of for personal care, so landing one of the best nursing homes I have seen was real hard to swallow. And, oh, the guilt trips all of us kids had to experence! It was hard for Mom to imagine that one of us kids just could not have done it on our own for sure!
 
