@@ -17,11 +17,11 @@ tagline: Topics and Posts List
     {{ category_name }}
   </a>
   {% for post in site.categories[category_name] %}
-    <li><a id="{{ post.title }}" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    <li><a id="{{ post.title }}" href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 {% endfor %}
   <span id="GOD">GOD CNA</span>
-  <li><a href="{{ site.url }}/Mom-is-Free/">{{ "Mom is Free" }}</a>
+  <li><a href="{{ site.baseurl }}/Mom-is-Free/">{{ "Mom is Free" }}</a>
   </li>
 </div>
