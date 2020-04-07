@@ -1,8 +1,8 @@
 ---
 layout: page
-title: What I Am Doing Now
+title: What I am Doing Now
 date: 2020-04-07
-# tagline: What I'm doing now
+tagline: What I'm doing now
 # ref: now
 # order: 0
 ---

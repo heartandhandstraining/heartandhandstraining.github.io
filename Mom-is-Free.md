@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Mom is Free
-date: 2020-04-04
-# tagline: Mom
+date: 2020-04-07
+tagline: Mom
 # ref: Mom-is-Free
 categories: CNA GOD
 ---
