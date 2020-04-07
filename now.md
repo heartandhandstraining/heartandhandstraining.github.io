@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Now
-date: 2020-04-04
-tagline: What I'm doing now
-ref: now
-order: 0
+title: What I Am Doing Now
+date: 2020-04-07
+# tagline: What I'm doing now
+# ref: now
+# order: 0
 ---
 
 I recently took some time to address the COVID-19 issue. Today I started a little page about my Mom, who I just lost on April 02, 2020.
