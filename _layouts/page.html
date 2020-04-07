@@ -7,6 +7,7 @@ layout: default
 {% endfor %}
 <a href= "/categories/" title="All">All Topics</a>=>
 <h3>{{ page.title }}</h3>
-<p class="meta">updated:&nbsp;{{ page.date | date_to_string }}</p>
-
+{% if page.title != 'Mom is Free' %}
+<p class="meta">{{ page.date | date_to_string }}</p>
+{% endif %}
 {{ content }}
