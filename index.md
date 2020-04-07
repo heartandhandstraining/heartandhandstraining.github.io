@@ -1,10 +1,13 @@
 ---
 layout: index
 title: Home
-date: 2020-03-06
+date: 2020-04-07
 ---
 
-<h2>Latest Posts</h2>
+  <h2>Latest Posts</h2>
+  <!-- <div class = "container-fluid"> -->
+  <span class = "center">(<a href= "/categories/" title="All">All Posts</a>)
+  </span>
   <ul>
     {% for post in site.posts %}
       {% assign date_format = site.cayman.date_format | default: "%b %-d, %Y" %}
@@ -16,3 +19,4 @@ date: 2020-03-06
       {{ post.excerpt | markdownify | truncatewords: 30 }}
     {% endfor %}
   <ul>
+  <!-- </div> -->
