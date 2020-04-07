@@ -36,4 +36,4 @@ Mom worked so hard to be the good Mom that she did not have herself. She loved b
 
 Mom took great pride in her abilities with babies. I remember her singing lullabies in the green rocking chair in our living room to both Sam and Bert.
 
-Break time. More to come.... (As you come back, you may need to refresh your page to get the new stuff)
+Break time. More to come.... 
