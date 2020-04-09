@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 # title: 
 # date: 2020-04-05
 tagline: Topics and Posts List

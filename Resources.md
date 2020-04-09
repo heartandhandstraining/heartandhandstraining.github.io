@@ -1,6 +1,6 @@
 ---
-layout: page
+layout: default
 title: Helpful External Links
 ---
 
-{{ content }}
+xyz
