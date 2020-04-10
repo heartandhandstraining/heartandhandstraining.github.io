@@ -46,5 +46,3 @@ tagline: Contact and More Info
    </a>
 </div>
 {:/}
-    
-<!-- [Go to the Home Page]({{ '/' | absolute_url }}) -->
