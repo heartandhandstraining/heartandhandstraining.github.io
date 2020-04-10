@@ -6,7 +6,7 @@ tagline: What I'm doing now
 # ref: now
 # order: 0
 ---
-I will be adding regularly to 'Mom is Free' post or awhile as part of remembering my Mom who passed away April 02,2020.
+I will be adding regularly to 'Mom is Free' post or awhile as part of remembering my Mom who passed away April 02, 2020.
 
 I will be working on a jekyll-github website similar to this one, using more svg images.
 
