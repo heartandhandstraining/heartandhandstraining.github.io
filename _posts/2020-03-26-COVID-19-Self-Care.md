@@ -28,6 +28,7 @@ The following is a summary list from an audio recording of things learned by the
 6. Regular doses of fresh air and sunshine, daily if possible.
 7. Positive mental outlook. This includes knowing our bodies are very capable of successfully fighting viruses which then compounds that inner strength.
 8. Vitamin C, D, zinc....There are many immune-boosting herbs and spices, including those with anti-bacterial/viral/fungal activity. Do your research.
+9. Along with the warm fluids, hot tubs and steamy showers help with moistening the linings of airways, making mucous easier to be cleared.
 
 I will update this if and as I think of other important points or clarification. It sounds almost too simple. These habits should be part of everyday life and taught and promoted in throughout childhood and carried into adulthood to maintain a higher level of wellness. 
 
