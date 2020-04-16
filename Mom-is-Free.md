@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mom is Free
-date: 2020-04-09
+date: 2020-04-16
 tagline: Mom
 # ref: Mom-is-Free
 categories: CNA GOD
@@ -39,5 +39,7 @@ Engulfed and taking great pride in her abilities with babies and children, I rem
 I must give her top credit for knowing when her kids were sick just by looking at them, especially as she got older and with each successive child. She was good at putting her ear to the chest and back listening to deep breaths for crackling (which she called rattling) or wheezing. She ran humidifiers and vaporizors as needed to loosen phlegm and we always had a hot water bottle around for those pesky ear aches and ear infections which often went away with just that treatment alone. Honestly, I think she may have gone a little overboard with doctoring of my youngest brother, though. Mom's early years of MS diagnosis seemed to trigger her personal need to overdo and still be "Mom" anyway she could. Likely due to lont-time overuse of antibiotics, he ended up with colitis(which was first thought to have been appendicitis, so he ended up with an appendectomy because the docs did not ask the right questions regarding antibiotic history).
 
 Not only did Mom make all our meals from scratch, she also made all my school clothes until I got in the 5th grade when she came to the conclusion that K-mart had become the easier AND less expensive way to go (which had not always been the case in history). Summer and winter clothes always seemed to be made (or bought) in sets of three different outfits. We generally got 1 pair of dress shoes, a pair of tennis shoes, and a good pair of boots, and maybe a pair of those cheap flip-flops, which we called thongs back then. Not too many kids had all homemade bread let alone, their clothes, too. As I got older, Mom liked to buy boys Levis or boys Wranglers jeans because they cost less and we all usually had boys Levi or Wrangler jackets. Mom liked to buy (or make) Easter dresses for me, too, and I remember most of them I am sure because I have always loved those spring colors, pastels! Mom made my 8th grade graduation (in Paonia, CO at that time)long dark blue lace-trimmed poke-a-dot dress, too, which I also proudly wore to "meetings" and an assembly in Denver. She made me a knee-length version of that dress in red poke-a-dot material with a strawberries trim which I also proudly wore too meetings and school once-in-awhile.
+
+Mom says she got all her homemaking and gardening skills from her Grandma Wood, who in addition to caring for her farm family, was also a 4-H leader. Lucky for me, Mom enjoyed passing most of that on. However, I had to learn the hard way just how unfortunately hard small family farming is. She wanted nothing to do with "being tied to milk cows," says she hated sheed (but I think she maybe changed her mind what little she was able to see because of her immobility of my primitive breed sheep and all I could create from their wool). She kind of blamed a bit of her MS symptoms on bucking bales as a young girl and also landing on a rock on her tailbone in the creek they used to play in where she spend much of her childhood in Washington.
 
 Breaktime. More to come.... 
