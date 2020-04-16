@@ -6,7 +6,7 @@ categories: CNA
 
 We live in an era of primarily "all or nothing" in so many aspects of life. This even applies to modern so-called health-care, and it greatly dismays me.
 
-As I watch people waiting in lines and fighting for and going in and out of their homes with hand-sanitizers, cleaners, and paper products, and wearing gloves and facemasks, I kind of chuckle but yet think it is NOT funny. People need much more than that. And, they need to FEEL they have much more power than that to fend off illness!
+As I watch people waiting in lines and fighting for and going in and out of their homes with hand-sanitizers, cleaners, and paper products, and wearing gloves and facemasks, I kind of chuckle but yet think it is NOT funny. People need much more than that. And, they need to FEEL they have much more power than that to fend off illness every day throughout their lives.
 
 ![Wellness-Illness Continuum](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-03/sb/continuum-68917881.jpg?ts=1585255348)
 
@@ -20,15 +20,16 @@ The following is a summary list from an audio recording of things learned by the
 
 ### General Care for Viral Exposures
 
-1. Social distancing, disposal (if possible) of continamated items, sanitizing of hands and surfaces (where viruses can survive for long periods of time).
+1. Social distancing, disposal (if possible) of continamated items, sanitizing of hands and surfaces (where viruses can survive for long periods of time). Keep your hands away from your face!
 2. Warm fluids, sipping every 20 minutes to keep the mucous membranes, inner vessels and spaces moist, so toxins can be easily disspelled from the body (caffeine free teas, lemon and honey, etc)
 3. Moving the body, expanding the airways and lungs as much as possible.
 4. Lots of fruits and veges.
 5. Good sleep.
 6. Regular doses of fresh air and sunshine, daily if possible.
-7. Positive mental outlook. This includes knowing our bodies are very capable of successfully fighting viruses which then compounds that inner strength.
+7. Positive mental outlook. This includes knowing our bodies are very capable of successfully fighting viruses which then compounds our inner strength.
 8. Vitamin C, D, zinc....There are many immune-boosting herbs and spices, including those with anti-bacterial/viral/fungal activity. Do your research.
 9. Along with the warm fluids, hot tubs and steamy showers help with moistening the linings of airways, making mucous easier to be cleared.
+10. I know there is one more thing I want to put here, but I cannot remember what. Grrrrh! For the heck of it, I will mention here, that whenever I feel some viral illness, like cold or flue, coming on, I, also, immediately (if possible) bundle up in my heavy 4lb wool sweater in bed, and I wake up feeling great. Never has failed that I can remember. I figure it must help me maintain a higher body temperature, without sweating, actually, because wool "breathes" and also wicks moisture away. Fever is actually our friend if we support it. However, that is just a trick of mine, and not the other thing I have heard that I cannnot remember.
 
 I will update this if and as I think of other important points or clarification. It sounds almost too simple. These habits should be part of everyday life and taught and promoted in throughout childhood and carried into adulthood to maintain a higher level of wellness. 
 
@@ -36,4 +37,4 @@ The first goal is to send virus particles to the stomach for destruction by stom
 
 As is, the media says approximately 80% of confirmed cases of COVID-19 are resolved at home, ie without hospitalization, and less than 3% of cases die. Improve your individual chances by exercising daily self-care for optimum health. Focus less on media drama.
 
-**Disclaimer:** This is not intended as medical advice. All readers are responsible for meeting their own health-care needs as they see fit. Note that discomfort/difficulty with breathing, shortness of breath, and poor skin color are signs that medical intervention needs consideration to get the airways cleared and functioning properly.
+**Disclaimer:** This is not intended as medical advice. All readers are responsible for meeting their own health-care needs as they see fit for their conditions and circumstances. Those with underlying conditions may need special considerations (For example: High blood pressure or low blood pressure alters tolerance for changes in body temperature.) NOTE: Discomfort/difficulty with breathing, shortness of breath, and poor skin color are signs that medical intervention needs consideration to get the airways cleared and functioning properly.
