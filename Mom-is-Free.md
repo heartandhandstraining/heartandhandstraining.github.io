@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mom is Free
-date: 2020-05-06
+date: 2020-05-07
 tagline: Mom
 # ref: Mom-is-Free
 categories: CNA GOD
@@ -44,8 +44,8 @@ Mom said she got all her homemaking and gardening skills from her Grandma Wood, 
 
 After having to remember how I was working on this project, I must say thanks to Lauren for helping me getting me back on track here. My girls and I did not end up spending as much time as Lauren with Mom in her years of MS since I was off to college when that hit. After I got married, the closest we lived to Mom and Dad was a good 45 minute drive. That was only for a short time when the girls were tiny and I was also busy working as a nurse in Home-Care, and their Dad was in college. Mom was still fussing over my youngest brother, too, at that time. 
 
-Mom was a true rock for us kids, always there for us, of utmost importance to her outside Dad and God. And, I always tried to be like her, of course. I feel like I missed the boat with my not playing games with my kids anywhere near as much. Mom was always in for a game of Monopoly, Clue, Yahtzee, Sorry, Uno, or some other card game and the list goes on. Somehow life gets too busy, especially nowadays, but I sure remember playing a lot of games with Mom. We even played Badmitton with some rackets I made with pantyhose and hangers, and we later got real rackets. She was pretty darn good at hitting a birdie around. 
+Mom was a true rock, always there for us kids, of utmost importance to her outside Dad and God. And, I always tried to be like her, of course. I feel like I missed the boat with my not playing games with my kids anywhere near as much. Mom was always in for a game of Monopoly, Clue, Yahtzee, Sorry, Uno, or some other card game and the list goes on. Somehow life gets too busy, especially nowadays, but I sure remember playing a lot of games with Mom. We even played Badmitton with some rackets I made with pantyhose and hangers, and we later got real rackets. She was pretty darn good at hitting a birdie around. 
 
-More on Mom being a great sounding board tomorrow hopefully.
+Mom was the best listener, a trait of a good psycologist. I know I was able to deal with so much more nonsense of junior high and high school because I had a Mom at home to hear my stories of nonsensical behavior and mistreatment of junior high and high school kids. Most of the time I could figure out answers to my own issues just by unloading my stories on Mom with just a few comments here and ther on her part.Whenever she had something to say about my situations, it was very apparent she had similar experiences in her school days. I remember getting a note passed to me that said, "Go ____ blank yourself!" It was kind of funny because I really did not knew what it meant, but I figured it was meant to be hurtful. I showed it to Mom and asked her what it meant. She said she was not sure but that I should give it to the teacher who was conducting the class the note was passed in. Well, that got the whole class in trouble, a major growly chewing-out by a generally gentle-giant-of-a-teacher-turned-angry-hulk who showed this new side of being able to instill great fear in his subjects! There was no more note passing in that class ever that I can remember! 
 
 Breaktime. More to come.... 
