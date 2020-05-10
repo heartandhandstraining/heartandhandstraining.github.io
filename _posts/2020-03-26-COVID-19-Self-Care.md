@@ -20,7 +20,8 @@ The following is a summary list from an audio recording of things learned by the
 
 ### General Care for Viral Exposures
 
-1. Social distancing, disposal (if possible) of continamated items, sanitizing of hands and surfaces (where viruses can survive for long periods of time). Keep your hands away from your face!
+1. Measures publicly being focused upon: Social distancing, disposal (if possible) of continamated items, sanitizing of hands and surfaces (where viruses can survive for long periods of time). Keep your hands away from your face! Use of a mask is more for the benefit of other than self, except for the fact that it should keep one's hands away from their own face. Also, keep in mind that any PPE (gloves, masks, gowns, or other) is contaminated once touched or or touched by anything else, not to mention being breathed, sneezed, or coughed upon. I say this because I am blown away by the overwhelming misuse of PPE by the general pubic. This being the situation makes PPE mostly a "feel good" thing rather than true protection. Definitely use  PPE properly if close contact is inevitable.
+
 2. Warm fluids, sipping every 20 minutes to keep the mucous membranes, inner vessels and spaces moist, so toxins can be easily disspelled from the body (caffeine free teas, lemon and honey, etc)
 3. Moving the body, expanding the airways and lungs as much as possible.
 4. Lots of fruits and veges.
@@ -29,7 +30,11 @@ The following is a summary list from an audio recording of things learned by the
 7. Positive mental outlook. This includes knowing our bodies are very capable of successfully fighting viruses which then compounds our inner strength.
 8. Vitamin C, D, zinc....There are many immune-boosting herbs and spices, including those with anti-bacterial/viral/fungal activity. Do your research.
 9. Along with the warm fluids, hot tubs and steamy showers help with moistening the linings of airways, making mucous easier to be cleared.
-10. I know there is one more thing I want to put here, but I cannot remember what. Grrrrh! For the heck of it, I will mention here, that whenever I feel some viral illness, like cold or flu, coming on, I, also, immediately (if possible) bundle up in my heavy 4lb wool sweater in bed, and I wake up feeling great. Never has failed that I can remember. I figure it must help me maintain a higher body temperature, without sweating, actually, because wool "breathes" and also wicks moisture away. Fever is actually our friend if we support it. However, that is just a trick of mine, and not the other thing I have heard that I cannnot remember.
+10. Sleeping prone has also proven  useful in promoting lung expansion and air exchange.
+
+As a general rule, exposure to direct sunlight and fresh air for any significant length of time (a few hours and maybe even less, depending on the particular organism) kills it/sanitizes it, especially when it is a natural product, like cotton.
+
+For the heck of it, I will mention here, that whenever I feel some viral illness, like cold or flu, coming on, I, also, immediately (if possible) bundle up in my heavy 4lb wool sweater in bed, and I wake up feeling great. Never has failed that I can remember. I figure it must help me maintain a higher body temperature, without sweating, actually, because wool "breathes" and also wicks moisture away. Fever is actually our friend if we support it. However, that is just a trick of mine, and not the other thing I have heard that I cannnot remember.
 
 I will update this if and as I think of other important points or clarification. It sounds almost too simple. These habits should be part of everyday life and taught and promoted in throughout childhood and carried into adulthood to maintain a higher level of wellness. 
 
