@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mom is Free
-date: 2020-05-10
+date: 2020-05-13
 tagline: Mom
 # ref: Mom-is-Free
 categories: CNA GOD
@@ -49,5 +49,7 @@ Mom was a true rock, always there for us kids, of utmost importance to her outsi
 Mom was the best listener, a trait of a good psycologist. I know I was able to deal with so much more nonsense of junior high and high school because I had a Mom at home to hear my stories of nonsensical behavior and mistreatment of junior high and high school kids. Most of the time I could figure out answers to my own issues just by unloading my stories on Mom with just a few comments here and ther on her part.Whenever she had something to say about my situations, it was very apparent she had similar experiences in her school days. I remember getting a note passed to me that said, "Go ____ blank yourself!" It was kind of funny because I really did not knew what it meant, but I figured it was meant to be hurtful. I showed it to Mom and asked her what it meant. She said she was not sure but that I should give it to the teacher who was conducting the class the note was passed in. Well, that got the whole class in trouble, a major growly chewing-out by a generally gentle-giant-of-a-teacher-turned-angry-hulk who showed this new side of being able to instill great fear in his subjects! There was no more note passing in that class ever that I can remember! 
 
 Ha! Mom was the world's greatest advocate for proper handwashing and cleansing of anything. We learned at home that handwashing, social distancing, covering our coughs and sneezes, etc are the first line of defense against passing germs around. Again, this was great grandma Wood who instilled this in her. It rather boggles my mind what I see going on with this COVID epidemic because the things that prevent the spread of this disease are no different than any other, but now people are finally having to go back to ways that should have never been lost. I am boggled by how people are focused primarily upon PPE (not to mention improper use) instead of social distancing and sanitation (handwashing and keeping the hands away from the face and from touching anything unnecessarily).
+
+Now another thing that was in my healthy ways was her thing about us being outside if at all possible. In Wyoming for sure, we were outside weather permitting, which was anything above freezing and less than wind that blew dirt in your eyes. If someone was "running in and out of the house" or was lying around the house any length of time, you heard, "You get outside!" She did not appreciate dirt and crap tracked into the house for one thing. She would vaccuum more than once a day if people were tracking stuff in, but she would try to catch that before it happened. The other thing was that she comes from preious eras that knew the importance of outdoor activity for childhood development and health. Yes, I grew up in the day when kids pretty much owned the outdoors and played outside from sun up to sunset! What has happened in this world seemed to happen pretty fast, this transition from kids living for making their own outdoor fun to needing entertainment via screens of all kinds.
 
 Breaktime. More to come.... 
