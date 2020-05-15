@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mom is Free
-date: 2020-05-13
+date: 2020-05-15
 tagline: Mom
 # ref: Mom-is-Free
 categories: CNA GOD
@@ -50,6 +50,11 @@ Mom was the best listener, a trait of a good psycologist. I know I was able to d
 
 Ha! Mom was the world's greatest advocate for proper handwashing and cleansing of anything. We learned at home that handwashing, social distancing, covering our coughs and sneezes, etc are the first line of defense against passing germs around. Again, this was great grandma Wood who instilled this in her. It rather boggles my mind what I see going on with this COVID epidemic because the things that prevent the spread of this disease are no different than any other, but now people are finally having to go back to ways that should have never been lost. I am boggled by how people are focused primarily upon PPE (not to mention improper use) instead of social distancing and sanitation (handwashing and keeping the hands away from the face and from touching anything unnecessarily).
 
-Now another thing that was in my healthy ways was her thing about us being outside if at all possible. In Wyoming for sure, we were outside weather permitting, which was anything above freezing and less than wind that blew dirt in your eyes. If someone was "running in and out of the house" or was lying around the house any length of time, you heard, "You get outside!" She did not appreciate dirt and crap tracked into the house for one thing. She would vaccuum more than once a day if people were tracking stuff in, but she would try to catch that before it happened. The other thing was that she comes from preious eras that knew the importance of outdoor activity for childhood development and health. Yes, I grew up in the day when kids pretty much owned the outdoors and played outside from sun up to sunset! What has happened in this world seemed to happen pretty fast, this transition from kids living for making their own outdoor fun to needing entertainment via screens of all kinds.
+Now another of her healthful ways was her thing about us being outside if at all possible. In Wyoming for sure, we were outside weather permitting, which was anything above freezing and less than wind that blew dirt in your eyes. If someone was "running in and out of the house" or was lying around the house any length of time, you heard, "You get outside!" She did not appreciate dirt and crap tracked into the house for one thing. She would vaccuum more than once a day if people were tracking stuff in, but she would try to catch that before it happened. The other thing was that she comes from preious eras that knew the importance of outdoor activity for childhood development and health. Yes, I grew up in the day when kids pretty much owned the outdoors and played outside from sun up to sunset! What has happened in this world seemed to happen pretty fast, this transition from kids living for making their own outdoor fun to needing entertainment via screens of all kinds.
+
+Mom was quite funny when someone was lying or "telling a story", and she was pretty good at detecting that. I really did not always like her saying this because she was not always right. However, as an adult, being a parent or manager or just listening to some people, there are t imes that, "I was not born yesterday!" just truly fits as a response to someone's BS! So, yes, I occasionally cannot refrain from using that expression, and I know when I am saying it just where it came from.
+
+Another expression that I occasionally resort to saying is, "I am NOT your slave!" Mom would get frustrated with us having to pick up or clean up after those in the household. And, again, I did not care for this an tried not to use that phrase often, but at an occasional frustrating moment, it would come out of my mouth. Of course, I would think of Mom and my dislike for those words even as I was saying them.
+Sometimes, I really could relate to how Mom felt.
 
 Breaktime. More to come.... 
