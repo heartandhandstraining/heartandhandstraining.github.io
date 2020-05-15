@@ -30,7 +30,7 @@ The following is a summary list from an audio recording of things learned by the
 7. Positive mental outlook. This includes knowing our bodies are very capable of successfully fighting viruses which then compounds our inner strength.
 8. Vitamin C, D, zinc....There are many immune-boosting herbs and spices, including those with anti-bacterial/viral/fungal activity. Do your research.
 9. Along with the warm fluids, hot tubs and steamy showers help with moistening the linings of airways, making mucous easier to be cleared.
-10. Sleeping prone has also proven  useful in promoting lung expansion and air exchange.
+10. Sleeping [prone](https://youtu.be/HCrSUwqoX0I) has also proven useful in promoting lung expansion and air exchange.
 
 As a general rule, exposure to direct sunlight and fresh air for any significant length of time (a few hours and maybe even less, depending on the particular organism) kills it/sanitizes it, especially when it is a natural product, like cotton.
 
