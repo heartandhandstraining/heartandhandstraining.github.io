@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mom is Free
-date: 2020-05-15
+date: 2020-05-21
 tagline: Mom
 # ref: Mom-is-Free
 categories: CNA GOD
@@ -57,4 +57,6 @@ Mom was quite funny when someone was lying or "telling a story", and she was pre
 Another expression that I occasionally resort to saying is, "I am NOT your slave!" Mom would get frustrated with us having to pick up or clean up after those in the household. And, again, I did not care for this an tried not to use that phrase often, but at an occasional frustrating moment, it would come out of my mouth. Of course, I would think of Mom and my dislike for those words even as I was saying them.
 Sometimes, I really could relate to how Mom felt.
 
-Breaktime. More to come things like how I see my Mom in both of my daughters, in good ways...
+I see my Mom in both of my daughters. Audrey has simiar hair in that it was dark brown at birth with new hair coming in blond and turning light brown. She also has those wispy curls around the temples. I think she gets the worry-wart syndrome from my side of the family through Mom, as well. Sarah, I have noticed, has some of the same hand expressions, and a more reserved demeanor like Mom's. Mom would pick at her eyebrows when she was nervous, just pull them all out. When I see those kinds of rather along the lines of obsessive-compulsive behaviors in my girls, not to mention myself, I think of Mom and Grandpa Wood and I believe they come from that lineage mostly. Routine and things set in and done in certain order in a certain way was definitely something displayed by Grandpa Wood in his last years, and having disruption in those things really left him an unhappy camper. Now, those OCD-like behaviors are also what I think sometimes does get people through rough patches over which they have little or no control, and Mom was tough, was able to endure a lot difficuly, even if not as gracefully as she or we would have liked. And, I think that trait exists in myself and the girls, too. These things are common to many people and animals, too, but I definitely saw more of this in Mom and her side of the family than in Dad and his side.
+
+As I get ready to spend over a week helping my youngest daughter move into her new home, I likely will not post much new for a couple of weeks. M
