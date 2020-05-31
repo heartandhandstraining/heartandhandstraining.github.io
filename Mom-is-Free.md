@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mom is Free
-date: 2020-05-30
+date: 2020-05-31
 tagline: Mom
 # ref: Mom-is-Free
 categories: CNA GOD
@@ -52,7 +52,7 @@ Ha! Mom was the world's greatest advocate for proper handwashing and cleansing o
 
 Now another of her healthful ways was her thing about us being outside if at all possible. In Wyoming for sure, we were outside weather permitting, which was anything above freezing and less than wind that blew dirt in your eyes. If someone was "running in and out of the house" or was lying around the house any length of time, you heard, "You get outside!" She did not appreciate dirt and crap tracked into the house for one thing. She would vaccuum more than once a day if people were tracking stuff in, but she would try to catch that before it happened. The other thing was that she comes from preious eras that knew the importance of outdoor activity for childhood development and health. Yes, I grew up in the day when kids pretty much owned the outdoors and played outside from sun up to sunset! What has happened in this world seemed to happen pretty fast, this transition from kids living for making their own outdoor fun to needing entertainment via screens of all kinds.
 
-Mom was quite funny when someone was lying or "telling a story", and she was pretty good at detecting that. I really did not always like her saying this because she was not always right. However, as an adult, being a parent or manager or just listening to some people, there are t imes that, "I was not born yesterday!" just truly fits as a response to someone's BS! So, yes, I occasionally cannot refrain from using that expression, and I know when I am saying it just where it came from. Another expression my Mom used to use on us kids, me for sure anyway, "Get down off your high horse!" Boy, did I dislike that one! But, I have to say that I have come to feel and understand those shoes on a few occasions.
+Mom was quite funny when someone was lying or "telling a story", and she was pretty good at detecting that. I really did not always like her saying this because she was not always right. However, as an adult, being a parent or manager or just listening to some people, there are t imes that, "I was not born yesterday!" just truly fits as a response to someone's BS! So, yes, I occasionally cannot refrain from using that expression, and I know when I am saying it just exactly where it came from. Another expression my Mom used to use on us kids, me for sure anyway, "Get down off your high horse!" Boy, did I dislike that one! But, I have to say that I have come to feel and understand those shoes on a few occasions.
 
 Here is one I also occasionally resorted to saying: "I am NOT your slave!" Mom would get frustrated with us having to pick up or clean up after those in the household. And, again, I did not care for this and tried not to use that phrase often, but at an occasional frustrating moment, it would come out of my mouth. Of course, I would think of Mom and my dislike for those words even as I was saying them.
 There are times that I really have related to that in Mom, though.
