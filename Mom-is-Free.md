@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mom is Free
-date: 2020-05-31
+date: 2020-06-02
 tagline: Mom
 # ref: Mom-is-Free
 categories: CNA GOD
@@ -58,6 +58,8 @@ Here is one I also occasionally resorted to saying: "I am NOT your slave!" Mom w
 There are times that I really have related to that in Mom, though.
 
 I see my Mom in both of my daughters. Audrey has simiar hair in that it was dark brown at birth with new hair coming in blond and turning light brown. She also has those wispy curls around the temples. I think she gets the worry-wart syndrome from my side of the family through Mom, as well. Sarah, I have noticed, has some of the same hand expressions, and a more reserved demeanor like Mom's. Mom would pick at her eyebrows when she was nervous, just pull them all out. When I see those kinds of rather almost along the lines of obsessive-compulsive behaviors in my girls, not to mention myself, I think of Mom and Grandpa Wood and I believe they come from that lineage mostly. Routine and things set in and done in certain order in a certain way was definitely something displayed by Grandpa Wood in his last years, and having disruption in those things really left him an unhappy camper. Now, those OCD-like behaviors are also what I think sometimes does get people through rough patches over which they have little or no control, and Mom was tough, was able to endure a lot difficuly, even if not as gracefully as she or we would have liked. And, I think that trait exists in myself and the girls, too. These things are common to many people and animals, too, but I definitely saw more of this in Mom and her side of the family than in Dad and his side.
+
+As I was walking in the foothills of Boise, ID yesterday and today, I was reminded of Mom by the Batchelor Button flowers in bloom randomly everywhere. Mom loved all kinds of flowers, but batchelor buttons were a favorite, as were blue flowers. I do not know if she knew about flax, but blue flax (brown seed) has a small, delicate blue flower. To me, it is one of the most beautiful crops out there when it is in full bloom, a field of blue! Dad said that in is studying his Beattie ancestors, who were plantation owners in the Virginia area after migrating here from Scotland, a (however many greats)-grandpa left in his will that a field of flax would be maintained for his wife. I know how awesome that is. Flax is so amazing, not just beautiful. The flaxseed (linseed being the same, just another name), amongst other health benefits, is used to maintain healthy lipid ratios in the blood and clean out the digestive tract. The fibers of the plant, which require a lengthy process to prepare, are spun into fine linens. Linseed is used in making linoleum and the oil is used in caring for wood floors and surfaces. Anyway, the reason I mention flax is that is in blooming randomly everywhere, as well.
 
 So long for now... 
 
