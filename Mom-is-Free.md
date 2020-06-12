@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mom is Free
-date: 2020-06-10
+date: 2020-06-12
 tagline: Mom
 # ref: Mom-is-Free
 categories: CNA GOD
@@ -63,7 +63,13 @@ As I was walking in the foothills of Boise, ID,yesterday and today, I was remind
 
 That stubborn, independent way that runs strong in both the Wood and Beattie bloods (lots of Scotch, Irish, German in there), also runs in my girls and myself! Of course, Mom is sandwiched right in there as a Wood. I am thankful and proud of that independence for the most part. Following the crowd does not come naturally to us is good, but it can make life more stressful if we do not temper it a bit as needed.
 
-Ah! As I was listening to a show about eagles... I remember how Dad, also, called Mom, "Eagle Eye," in her younger days for sure! She did not miss a thing, and, of course, this contributed to her being so good at hunting and hitting her targets in one shot.
+Ah! As I was listening to a show about eagles... I remember how Dad, also, called Mom, "Eagle Eye," in her younger days for sure! She did not miss a thing, and, of course, this contributed to her being so good at hunting and hitting her targets in one shot. Mom even had eyes in the back of her head because she did not miss a thing! And, she let you know it!
+
+Gee, here is another expression of Mom's: "It did not just grow legs and walk off!" Of course that meant she knew some took whatever it was she was referring, too. LOL! I can see the lightning in her eyes when saying it, too. And, of course, that is one I have used, too, just another one that truly fits sometimes, especially when a huge item disappears and you know it was there. Ah, man! I do not blame her for being angry when something disappeared, but that feeling of receiving that glare when you did not do it, but she almost knew (thought) you must have had something to do with it. Ouch!
+
+Ok! Something I have been talking about for several years, a undisputably positive thing Mom taught was that we did not 'hate' anything. She did not like hearing that word come out of our mouths. She said you might dislike something, but 'hate' was too strong of a word (never mind that Mom messed up once in awhile and used it herself. LOL!) I did, do, and always will stand by that one!
+
+Another thing that Mom and Dad both taught which I have been dismayed for several years in seeing this going by the wayside in society is respect for elders. This was so ingrained in me and is a Bible principle that is meant to better our lives. Generally speaking age, which also comes with life experience, means better decision-making, guidance capabilities, and dependability, just to mention a few invaluable attributes. Yes, there are those bad apple/poor example sorts out there in every generation nowadays, so I have a smidgen of understanding for those folks contending this is some sort of inane advice. However, overall, I think the increasing worship of youth and beauty and throwing-away the older and wiser folks is a large reason for our failing society as a whole. Though I may be seeing a heavier dose of this situation where I am living now, this trend has been becoming commonplace everywhere. Respect for elders, amongst other core values, is not being taught in our young children, because people are too busy maybe and/or there is just blatant lack of recognition of the importance of these principles. Man is too smart for the basic, principles in the Bible, I guess. We shall see. Time will tell, just as it has over and over in history.
 
 So long for now... 
 
