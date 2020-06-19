@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mom is Free
-date: 2020-06-12
+date: 2020-06-19
 tagline: Mom
 # ref: Mom-is-Free
 categories: CNA GOD
@@ -65,11 +65,13 @@ That stubborn, independent way that runs strong in both the Wood and Beattie blo
 
 Ah! As I was listening to a show about eagles... I remember how Dad, also, called Mom, "Eagle Eye," in her younger days for sure! She did not miss a thing, and, of course, this contributed to her being so good at hunting and hitting her targets in one shot. Mom even had eyes in the back of her head because she did not miss a thing! And, she let you know it!
 
-Gee, here is another expression of Mom's: "It did not just grow legs and walk off!" Of course that meant she knew some took whatever it was she was referring, too. LOL! I can see the lightning in her eyes when saying it, too. And, of course, that is one I have used, too, just another one that truly fits sometimes, especially when a huge item disappears and you know it was there. Ah, man! I do not blame her for being angry when something disappeared, but that feeling of receiving that glare when you did not do it, but she almost knew (thought) you must have had something to do with it. Ouch!
+Gee, here is another expression of Mom's: "It did not just grow legs and walk off!" Of course that meant she knew someone took whatever it was she was referring, too. LOL! I can see the lightning in her eyes when saying it, too. And, of course, that is one I have used, too, just another one that truly fits sometimes, especially when a huge item disappears and you know it was there. Ah, man! I do not blame her for being angry when something disappeared, but that feeling of receiving that glare when you did not do it, but she almost knew (thought) you must have had something to do with it. Ouch!
 
 Ok! Something I have been talking about for several years, a undisputably positive thing Mom taught was that we did not 'hate' anything. She did not like hearing that word come out of our mouths. She said you might dislike something, but 'hate' was too strong of a word (never mind that Mom messed up once in awhile and used it herself. LOL!) I did, do, and always will stand by that one!
 
 Another thing that Mom and Dad both taught which I have been dismayed for several years in seeing this going by the wayside in society is respect for elders. This was so ingrained in me and is a Bible principle that is meant to better our lives. Generally speaking age, which also comes with life experience, means better decision-making, guidance capabilities, and dependability, just to mention a few invaluable attributes. Yes, there are those bad apple/poor example sorts out there in every generation nowadays, so I have a smidgen of understanding for those folks contending this is some sort of inane advice. However, overall, I think the increasing worship of youth and beauty and throwing-away the older and wiser folks is a large reason for our failing society as a whole. Though I may be seeing a heavier dose of this situation where I am living now, this trend has been becoming commonplace everywhere. Respect for elders, amongst other core values, is not being taught in our young children, because people are too busy maybe and/or there is just blatant lack of recognition of the importance of these principles. Man is too smart for the basic, principles in the Bible, I guess. We shall see. Time will tell, just as it has over and over in history.
+
+I am sure Mom would have loved to have everyone pulled together in the end, but she had accepted that this would not happen as I could tell with our last visit. I know That was Dad's goal in his preaching and encouraging "forgiveness" and saying that it would be needed. Forgiveness has to happen, but forgetting is another story. At least she had the love of all her kids in the end. I think that was the biggest thing she was waiting for in order to allow her self to pass on. Mom loved all her kids and I know the feeling. Even if us Mom's feel pain of a child not doing well in one way or another, it is next to impossible lose that love for our children. To be a parent with that kind of love gives that sense of that love that God ALL his children, no matter what pain comes with having those children.
 
 So long for now... 
 
