@@ -18,7 +18,7 @@ In all my adult life for sure and even younger years, I have long sensed that mu
 
 The following is a summary list from an audio recording of things learned by the Chinese in patients who did better in fighting the virus. This was a short-lived post on a community website, so short that when I decided I should share it a couple days later, I was too late, ie it was removed from the site. Interesting, just as interesting as many similar incidents in both life-in-general and experiences surrounding the health-care community. When this audio was brought to my attention and I listened, I said and thought, "Oh, yes! I know all that IS beneficial (by my experience)! And, that really is not NEW learning in the prevention of illness, its complications and death, viral illnesses especially."
 
-### Prevent Illness with Viral Exposures
+### Prevent and Ease Illness with Viral Exposures
 
 1. Measures publicly being focused upon: Social distancing, disposal (if possible) of continamated items, sanitizing of hands and surfaces (where viruses can survive for long periods of time). Keep your hands away from your face! Use of a mask is more for the benefit of other than self, except for the fact that it should keep one's hands away from their own face. Also, keep in mind that any PPE (gloves, masks, gowns, or other) is contaminated once touched or touched by anything else, not to mention being breathed, sneezed, or coughed upon. I say this because I am blown away by the overwhelming misuse of PPE by the general pubic. This being the situation makes PPE mostly a "feel good" thing rather than true protection. However, most definitely use PPE properly if close contact to potential illness is inevitable.
 
