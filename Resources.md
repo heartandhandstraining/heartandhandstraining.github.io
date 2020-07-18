@@ -6,7 +6,11 @@ tagline: Helpful External Links
 
 # Resource Links
 
-These links helped me resolve development issues.
+Helpful sites abound!
+
+#### God
+**General Education from the Bible**
+[JW.ORG](https://jw.org/)
 
 #### Jekyll-Github
 **baseurl**
