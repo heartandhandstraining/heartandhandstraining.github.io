@@ -4,7 +4,7 @@ title: Make Sense of the World
 categories: GOD
 ---
 
-As I watch the events in this country and in the world, particularly the COVID-19 issue and the reaction to it on the part of the government, media, and factions of the health care industry, I can only make sense of it through the Bible. The uprisings, also, seem to be more of a display of generalized unrest than actual sincere concerns for others. Where is all this leading and when will it end?
+As I watch the events in this country and in the world, particularly the COVID-19 issue and the reaction to it on the part of the government, media, and factions of the health care industry, I can only make sense of it through the Bible. The current uprisings, also, seem to be more of a display of generalized unrest than actual sincere concerns for others. Where is all this leading and when will it end?
 
 ##### Bible Prophecy
 
