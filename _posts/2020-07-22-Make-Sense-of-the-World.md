@@ -12,4 +12,4 @@ The meaty prophecies in the Bible still has some unfolding to do. Figurative acc
 
 ##### The Basics
 
-Do you want or need to stick to the basics for now? Anybody who wants to study the Bible has it at their fingertips, all for free. How easy can that be? [Get started today!](www.jw.org/en/bible-teachings/online-lessons/) See, for example, why suffering and evil exist in the world and what God is doing about it.
+Do you want or need to stick to the basics for now? Anybody anywhere in the world who wants to study the Bible has it at their fingertips, all for free. How easy can that be? [Get started today!](https://www.jw.org/en/bible-teachings/online-lessons/) See, for example, why suffering and evil exist in the world and what God is doing about it.
