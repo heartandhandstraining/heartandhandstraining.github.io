@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Mom is Free
-date: 2020-07-18
+date: 2020-07-28
 tagline: Mom
 # ref: Mom-is-Free
 categories: CNA GOD
 ---
+
+![Mom visiting her Dad, Grandpa Wood, in Grand Junction, ~1979](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-07/sb/mom_gpa-38033076.jpg?ts=1595969689)
 
 I have so much more than the following to say about my Mom: [Sandra Beattie](https://www.hkfuneralhome.com/en-memorium/sandra-d-beattie).
 
@@ -81,6 +83,9 @@ Certain foods always remind me of Mom. Fish and shrimp,of course, was pretty sta
 
 I was so fortunate to be in on the earlier years of Mom and Dad's life together! One aspect was that of them studying with and becoming JWs. Mom and Dad together would have both loved how the organization has evolved with technology. They were already primed to live the COVID life. Their site never ceases to amaze me. Having programming and network knowledge gives me true appreciation for the phenomenal extent of worldwide collaborative volunteer efforts in making such a user-friendly with it's immense sourcing and cross-referencing! There is practically no excuse for not getting some daily spiritual food because it comes in so many ways with this organization, especially through their website. Their conventions are shorter nowadays, and with the COVID pandemic, the presentations are online, downloadable, and being spread out over a longer time frame such that the congregations can get together to view and discuss in their homes and via Zoom on the weekends. Of course, all their meetings are on Zoom now, and they had already been on to using this tool, also. The [2020 Regional Convention](https://www.jw.org/en/library/videos/#en/categories/2020Convention) has so far what would have been the first days worth of presentations. My favorites for this day (Friday) were both the first video recordings of both the morning and afternoon, but all of it is well worth listening and viewing for greater happiness in life despite the difficult times we may be facing. There will yet be 2 more days worth of this convention over another couple of weekends. These conventions used to be 4 days in a big convention center and still all volunteer right down to acting out skits on stage by congregation members from their respective regions. Anyway, I never cease to be amazed at God's hand with his faithful people on earth!
 
-So long for now... 
+![Mom & Dad studying the Bible](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-07/sb/mom_dad_bible-97906915.jpg?ts=1595967472)
+
+This is the Mom and Dad that I knew growing up. This is taken around the time I was 14 years old (1978 or 1978), not long after moving from Wyoming to the Paonia acreage. Mom and Dad were avid Bible students and they loved doing it together. And, I have decided I will spend more time doing the same. This world remains and is progressively more unstable. We are ever closer to the time of the end of the current world as we know it, and we must be prepared for new system under Jehovah God's rulership through Jesus Christ. I have always tried to keep myself prepared for the potential need for me to bring in more income, but I think I will be able to do that if need be no matter by what avenues. I have been focusing a bit more on web skills than nursing, which reminds me I need to complete another nursing CEU this month to meet my own goal to keep up with my meeting the requirements for my next renewal... Anyway, I continue with web skills education and use it to creative with Bible knowledge and sharing it.
+
 
 
