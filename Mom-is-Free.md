@@ -9,7 +9,7 @@ categories: CNA GOD
 
 ![Mom visiting her Dad, Grandpa Wood, in Grand Junction, ~1979](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-07/sb/mom_gpa-38033076.jpg?ts=1595969689)
 
-I have so much more than the following to say about my Mom: [Sandra Beattie](https://www.hkfuneralhome.com/en-memorium/sandra-d-beattie).
+That is Mom visiting her Dad, Grandpa Wood, in Grand Junction, ~1979. I have so much more than the following to say about my Mom: [Sandra Beattie](https://www.hkfuneralhome.com/en-memorium/sandra-d-beattie).
 
 My Mom is now resting in peace, no more pain, no more frustration with being caged up in her own body and dependent on others for most everything. She spent most the past 10 years in a nursing home.
 
