@@ -8,7 +8,7 @@ tagline: Topics and Posts List
 
 <div class = "container-fluid">
   <div class = "row justify-content-left">
-    <a title="Certified Nurse Aide -Related posts" href="#CNA">CNA</a>,&nbsp;<a title="Web Development & Networking -Related posts" href="#WEB">WEB</a>,&nbsp;<a title="God and Faith-related posts" href="#GOD">GOD</a>,&nbsp;<a title="Fiber Arts and Viking Sheep posts" href="#VSA">VSA</a>
+    <a title="Certified Nurse Aide -Related posts" href="#CNA">CNA</a>,&nbsp;<a title="Web Development & Networking -Related posts" href="#WEB">WEB</a>,&nbsp;<a title="God and Faith-related posts" href="#GOD">GOD</a>,&nbsp;<a href="https://www.jw.org/" title="Free Online Bible" target="_blank">Bible</a>
   </div>
   <hr/>
 {% for category in site.categories %}
