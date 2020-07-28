@@ -10,8 +10,8 @@ tagline: Topics and Posts List
   <div class = "row justify-content-left">
     <a title="Certified Nurse Aide -Related posts" href="#CNA">CNA</a>,&nbsp;
     <a title="Web Development & Networking -Related posts" href="#WEB">WEB</a>,&nbsp;<a title="God and Faith-related posts" href="#GOD">GOD</a>,&nbsp;
-    <a title="Free Online Bible" href="https://www.jw.org/en/library/bible/study-bible/books/">
-      BIBLE
+    <a title="Free Online Bible" href="https://www.jw.org/en/library/bible/study-bible/books/" target="_blank">
+      (BIBLE)
     </a>
   </div>
   <hr/>
