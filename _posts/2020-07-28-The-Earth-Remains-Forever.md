@@ -9,7 +9,7 @@ This is a start for an svg animation. I have forgotten a bit of what I had learn
 {::nomarkdown}
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- viewBox="0 0 138 138" -->
-<svg version="1.0"  viewBox="0 0 138 138" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.0"  viewBox="0 0 217 217" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
 <metadata>
 <rdf:RDF>
 <cc:Work rdf:about="">
