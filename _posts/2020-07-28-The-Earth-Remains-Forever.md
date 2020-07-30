@@ -39,7 +39,7 @@ This is a start for an svg animation. I have forgotten a bit of what I had learn
 <g transform="translate(199.65 -22.544)">
 <g transform="matrix(1.0074 -.09071 .09138 .99184 -72.739 12.273)" fill="#fff">
 <path id="l" d="m-3.845 73.084a60.183 60.183 0 0 1-60.183 60.183 60.183 60.183 0 0 1-60.183-60.183 60.183 60.183 0 0 1 60.183-60.184 60.183 60.183 0 0 1 60.183 60.184z" stroke="#fff" stroke-width="1.134"/>
-<text id="textForever" transform="rotate(223.43 -63.986 73.087)" fill-rule="evenodd" font-family="Verdana" font-size="8px" font-weight="400" stroke="#3da603" stroke-dashoffset="99" stroke-linejoin="round" stroke-width="1.134" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25;paint-order:fill markers stroke"><textPath xlink:href="#l"><tspan id="spanForever">The earth remains forever.</tspan></textPath></text>
+<text id="textForever" transform="rotate(223.43 -63.986 73.087)" fill-rule="evenodd" font-family="Verdana" font-size="8px" font-weight="400" stroke="#3da603" stroke-dashoffset="99" stroke-linejoin="round" stroke-width="1.134" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25;paint-order:fill markers stroke"><textPath xlink:href="#l"><tspan id="spanForever">&#8221;The earth remains forever.&#8221;</tspan></textPath></text>
 <path d="m-61.719 72.923a2.408 2.408 0 0 1-2.408 2.408 2.408 2.408 0 0 1-2.408-2.408 2.408 2.408 0 0 1 2.408-2.408 2.408 2.408 0 0 1 2.408 2.408z" stroke="#3db7f9" stroke-width=".184"/>
 </g>
 <g transform="matrix(1.0036 0 0 .99801 -207.75 10.23)">
