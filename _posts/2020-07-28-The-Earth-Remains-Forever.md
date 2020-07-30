@@ -50,7 +50,7 @@ This is a start for an svg animation. I have forgotten a bit of what I had learn
 <circle id="southAmCirc" transform="matrix(-1.4231 .62382 -.45596 -1.0402 389.72 43.512)" cx="193.56" cy="56.486" r="28.884" fill="url(#h)"/>
 </g>
 <path id="g" d="m-61.734 91.576a68.882 68.882 0 0 0-68.882-68.882 68.882 68.882 0 0 0-68.882 68.882 68.882 68.882 0 0 0 68.882 68.882 68.882 68.882 0 0 0 68.882-68.882z" fill="none"/>
-<text id="textEcl" transform="rotate(116.09 -129.99 90.665)" fill="#3da603" fill-rule="evenodd" font-family="Verdana" font-size="8px" font-weight="400" stroke="#3da603" stroke-dashoffset="99" stroke-linejoin="round" stroke-width=".9" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25;paint-order:fill markers stroke"><textPath xlink:href="#g"><tspan id="spanEccl">Ecclesiastes 1:4</tspan></textPath></text>
+<text id="textEcl" transform="rotate(116.09 -129.99 90.665)" fill="#3da603" fill-rule="evenodd" font-family="Verdana" font-size="8px" font-weight="400" stroke="#3da603" stroke-dashoffset="99" stroke-linejoin="round" stroke-width=".9" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25;paint-order:fill markers stroke"><textPath xlink:href="#g"><tspan id="spanEccl">-Ecclesiastes 1:4</tspan></textPath></text>
 </g>
 </svg>
 {:/}
