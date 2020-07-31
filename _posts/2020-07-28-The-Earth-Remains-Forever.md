@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Earth Remains Forever
-categories: [GOD, WEB]
+category: GOD, WEB
 ---
 
 This is a start for an svg animation. I have forgotten a bit of what I had learned when I was working on such projects several months ago, so it will take me a bit to get things the way I want. I also see the categories for my posts are not appearing as I would like, so that is another thing to get done....
