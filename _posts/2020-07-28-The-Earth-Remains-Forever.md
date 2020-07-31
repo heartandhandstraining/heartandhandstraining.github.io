@@ -7,7 +7,7 @@ categories: [GOD, WEB]
 This is a start for an svg animation. I have forgotten a bit of what I had learned when I was working on such projects several months ago, so it will take me a bit to get things the way I want. I also see the categories for my posts are not appearing as I would like, so that is another thing to get done....
 
 {::nomarkdown}
-<svg version="1.0"  viewBox="-6 -14 155.25 155.25" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.0"  viewBox="-10 -35 217 217" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
   <metadata
      id="metadata2">
     <rdf:RDF>
