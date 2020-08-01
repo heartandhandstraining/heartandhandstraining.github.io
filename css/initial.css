@@ -15,7 +15,7 @@
 
 #textForever {
 	opacity: 0;
-	animation: fade 15s ease-in-out infinite;
+	animation: fade 11s ease-in-out infinite;
 }
 
 @keyframes show {
