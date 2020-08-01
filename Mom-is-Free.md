@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Mom is Free
-date: 2020-07-30
+date: 2020-08-01
 tagline: Mom
-# ref: Mom-is-Free
-categories: CNA GOD
+category: CNA, GOD
 ---
 
 ![Mom visiting her Dad, Grandpa Wood, in Grand Junction, ~1979](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-07/sb/mom_gpa-38033076.jpg?ts=1595969689)

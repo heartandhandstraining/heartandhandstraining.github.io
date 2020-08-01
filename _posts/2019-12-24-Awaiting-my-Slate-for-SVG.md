@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Awaiting my Slate for SVG
-categories: WEB
+category: WEB
 ---
 
 I am anxiously awaiting my Repaper Slate and doing research on SVG, so I can turn paper-and-pencil drawings into SVG images! That means also learning more about SVG.

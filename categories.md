@@ -25,7 +25,7 @@ tagline: Topics and Posts List
     </li>
   {% endfor %}
 {% endfor %}
-  <span id="GOD">GOD CNA</span>
+  <span id="GOD">GOD, CNA</span>
   <li><a href="{{ site.baseurl }}/Mom-is-Free/">{{ "Mom is Free" }}</a>
   </li>
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My 1st SVG Animations
-categories: WEB
+category: WEB
 ---
 
 I created my first 2 SVG animations. 

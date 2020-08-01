@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Email via Google Apps Spreadsheet
-categories: WEB
+category: WEB
 ---
 
 This function can be utilized by **Google account users** to send automated emails from a Gooogle spreadsheet. Apps Script is a **javascript** based coding language to enhance Google applications and help build new web apps. 
