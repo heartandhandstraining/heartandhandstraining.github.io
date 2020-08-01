@@ -15,7 +15,7 @@
 
 #textForever {
 	opacity: 0;
-	animation: fade 10s ease-in-out infinite;
+	animation: fade 15s ease-in-out infinite;
 }
 
 @keyframes show {
@@ -31,7 +31,7 @@
 	animation: show 20s .1s ease 1
 }
 
-#heart {
+#heart, #textEccl {
 	animation: show 8s 1s ease 1
 }
 
@@ -39,7 +39,7 @@
 	animation: show 15s 1s ease-in-out 1
 }
 
-#hollywood, #textEccl {
+#hollywood {
 	animation: show 1s 7s ease 1
 }
 
