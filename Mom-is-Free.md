@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mom is Free
-date: 2020-08-01
+date: 2020-08-05
 tagline: Mom
 category: CNA, GOD
 ---
@@ -84,9 +84,7 @@ I was so fortunate to be in on the earlier years of Mom and Dad's life together!
 
 ![Mom & Dad studying the Bible](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-07/sb/mom_dad_bible-97906915.jpg?ts=1595967472)
 
-This is the Mom and Dad that I knew growing up. This is taken around the time I was 13 years old (1978), not long after moving from Wyoming to the Paonia acreage. Mom and Dad were avid Bible students which they loved doing together. 
-
-With that, I have decided I will spend more time doing the same. This world remains and is progressively more unstable. We are ever closer to the time of the end of the current world as we know it, and we must be prepared for new system under Jehovah God's rulership through Jesus Christ. I have always tried to keep myself prepared for the potential need for me to bring in more income, but I think I will be able to do that if need be. I see pursuit of a more active relationship with God as being of higher priority. I have been focusing more on web skills than nursing and I will continue with web skills education, using it to creative with Bible knowledge and sharing it.
+This is the Mom and Dad that I knew growing up. This is taken around the time I was 13 years old (1978), not long after moving from Wyoming to the Paonia acreage. Mom and Dad were avid Bible students which they loved doing together. With that, I have decided I will spend more time doing the same.
 
 
 
