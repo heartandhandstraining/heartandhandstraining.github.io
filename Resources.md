@@ -9,10 +9,11 @@ tagline: Helpful External Links
 Helpful sites abound!
 
 #### God
-**Bible Education**
+*Bible Education
 [JW.ORG](https://jw.org/)
-**Bible Study Books published by the Jehovah Witnesses**
-**Translations of the Bible**
+*Bible Study Aids published by the Jehovah Witnesses
+[Books] (https://wol.jw.org/en/wol/publication/r1/lp-e/te)
+*Translations of the Bible**
 [In English](https://wol.jw.org/en/wol/bibles/r1/lp-e)
 
 #### Jekyll-Github
