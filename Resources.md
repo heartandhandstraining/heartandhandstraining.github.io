@@ -9,8 +9,11 @@ tagline: Helpful External Links
 Helpful sites abound!
 
 #### God
-**General Education from the Bible**
+**Bible Education**
 [JW.ORG](https://jw.org/)
+**Bible Study Books published by the Jehovah Witnesses**
+**Translations of the Bible**
+[In English](https://wol.jw.org/en/wol/bibles/r1/lp-e)
 
 #### Jekyll-Github
 **baseurl**
