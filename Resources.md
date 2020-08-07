@@ -18,6 +18,6 @@ Helpful sites abound!
 **Translations of the Bible**
 [In English](https://wol.jw.org/en/wol/bibles/r1/lp-e)
 
-#### Jekyll-Github
-**baseurl**
+#### WEB
+**gh-pages baseurl**
 [Clearing Up Confusion Around baseurl -- Again](https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/)
