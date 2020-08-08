@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Make Disciples of Them
-category: WEB
+category: GOD
 ---
 
 The better we become at teaching, the more joy we have in it; I must work on this, so I can share God's promises effectively with others. (Psalms 40:8; Luke 10:17, 21).
