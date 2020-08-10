@@ -757,7 +757,7 @@ My similar "remake" of the original jpeg image using Inkscape:
 {:/}
 
 
-Above, using css with svg, the "IBEW LOCAL 40" words pop out and in. Upon page-load he date fades in while the "SERVING the MOTION PICTURE INDUSTRY" message around the bottom is stroked over. Finally, the fist smacks the "HOLLYWOOD" sign. **Refresh your browser** to view again. 
+Above, using css with svg, the "IBEW LOCAL 40" words pop out and in. Upon page-load the date fades in while the "SERVING the MOTION PICTURE INDUSTRY" message around the bottom is stroked over. Finally, the fist smacks the "HOLLYWOOD" sign. **Refresh your browser** to view again. 
 
 The following retains the organizationally approved jpeg image using Inkscape to add the transparent image with message, which was then animated with css.
 
