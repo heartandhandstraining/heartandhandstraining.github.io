@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: index
 title: Home
 date: 2020-08-06
 tagline: What I'm doing now
