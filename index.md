@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Focus towards God's Government
+title: "Focus towards God's Government"
 date: 2020-08-06
 tagline: What I'm doing now
 ---
