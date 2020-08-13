@@ -1,22 +1,15 @@
 ---
-layout: index
+layout: page
 title: Home
-date: 2020-04-07
+date: 2020-08-06
 ---
 
   <h2>Latest Posts</h2>
   <!-- <div class = "container-fluid"> -->
   <span class = "center">=><a href= "/categories/" title="Go to All Posts">All</a>
   </span>
-  <ul>
-    {% for post in site.posts %}
-      {% assign date_format = site.cayman.date_format | default: "%b %-d, %Y" %}
-      <h3>
-          <a class="post-link" href="{{ site.baseurl }}{{ post.url}}" title="{{ post.title }}">{{ post.title | escape }}</a>
-      </h3>
-      <span class="post-meta">{{ post.date | date: date_format }}
-      </span>
-      {{ post.excerpt | markdownify | truncatewords: 30 }}
-    {% endfor %}
-  <ul>
+  ---
+
+This world remains and is progressively more unstable. We are ever closer to the time of the end of the current world as we know it, and we must be prepared for new system under Jehovah God's rulership through Jesus Christ. I have always tried to keep myself prepared for the potential need for me to bring in more income, but I think I will be able to do that if need be. I see pursuit of a more active relationship with God as being of higher priority. Along with that means doing according to Matthew 24:14: "And this good news of the Kingdom will be preached in all the inhabited earth for a witness to all the nations, and then the end will come." I have been focusing more on web skills than nursing and I will continue with web skills education, using it to creative with Bible knowledge and sharing it.
+
   <!-- </div> -->
