@@ -10,7 +10,7 @@ category: CNA, GOD
 
 That is Mom visiting her Dad, Grandpa Wood, in Grand Junction, ~1979. I have so much more than the following to say about my Mom: [Sandra Beattie](https://www.hkfuneralhome.com/en-memorium/sandra-d-beattie).
 
-My Mom is now resting in peace, no more pain, no more frustration with being caged up in her own body and dependent on others for most everything. She spent most the past 10 years in a nursing home.
+My Mom is now resting in peace, no more pain, no more frustration with being caged up in her own body and dependent on others for most everything. She spent most the past 10 years in a nursing home on top of being unable to walk at all since 1994.
 
 As a CNA, I told myself and my parents that I would not have them going to a nursing home, never! Well, at that time I never imagined a parent of MINE with such a disease so debilitating as MS can be. That was just a few people in the nursing home. Bizarre thing is that a lady a took special care of with MS followed me as a CNA from Grand Junction to Paonia, where my parents helped me take her to the 4th of July firworks. That fall after I went off to college is when Mom was diagnosed with MS, a couple weeks after Mom called me to say that this special lady had passed away due to a complication of MS. Damn crazy!
 
@@ -84,4 +84,4 @@ I was so fortunate to be in on the earlier years of Mom and Dad's life together!
 
 ![Mom & Dad studying the Bible](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-07/sb/mom_dad_bible-97906915.jpg?ts=1595967472)
 
-This is the Mom and Dad that I knew growing up. This is taken around the time I was 13 years old (1978), not long after moving from Wyoming to the Paonia acreage. Mom and Dad were avid Bible together, as they most always were. With that, I have decided I will spend more time doing the same. [HERE]({{ site.baseurl }}/posts/)
+This is the Mom and Dad that I knew growing up. This is taken around the time I was 13 years old (1978), not long after moving from Wyoming to the Paonia acreage. Mom and Dad were avid Bible students which they loved doing together. With that, I have decided I will spend more time doing the same. [HERE]({{ site.baseurl }}/categories/#GOD)
