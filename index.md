@@ -6,7 +6,7 @@ date:
 
   <h2>Latest Posts</h2>
   <!-- <div class = "container-fluid"> -->
-  <span class = "center">=><a href= "/categories/" title="Go to All Posts">All</a>
+  <span class = "center">=><a href= "/categories/#POSTS" title="Go to All Posts">All</a>
   </span>
   <ul>
     {% for post in site.posts %}
