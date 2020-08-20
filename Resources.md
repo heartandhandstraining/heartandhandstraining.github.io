@@ -13,7 +13,7 @@ Helpful sites abound!
 [JW.ORG](https://jw.org/)
 
 **Bible Study Aids**
-[Books](https://wol.jw.org/en/wol/publication/r1/lp-e/te), [Magazines](https://www.jw.org/en/library/magazines/), [Videos](https://www.jw.org/en/library/videos/#en/home)
+[Books](https://wol.jw.org/en/wol/library/r1/lp-e/all-publications/books), [Magazines](https://www.jw.org/en/library/magazines/), [Videos](https://www.jw.org/en/library/videos/#en/home)
 
 **Translations of the Bible**
 [In English](https://wol.jw.org/en/wol/bibles/r1/lp-e)
