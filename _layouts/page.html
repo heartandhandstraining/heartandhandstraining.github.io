@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{% for category in categories %}
+    {{page.categories | join: ', '}}
+{% endfor %}
+<a href= "/categories/" title="All Topics Posts">All Topics</a>=>
+<h3>{{ page.title }}</h3>
+{% if page.title != 'Mom is Free' %}
+<p class="meta">{{ page.date | date_to_string }}</p>
+{% endif %}
+{{ content }}
