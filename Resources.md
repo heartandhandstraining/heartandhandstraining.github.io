@@ -6,7 +6,7 @@ tagline: Helpful External Links
 
 # Resource Links
 
-Helpful sites abound!
+Best source of life guidance: {{ site.bible }}
 
 #### God
 **Bible Education**
