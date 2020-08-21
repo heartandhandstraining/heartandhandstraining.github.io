@@ -3,14 +3,14 @@ layout: page
 title: Mom is Free
 date: 2020-08-06
 tagline: Mom
-category: CNA, GOD
+category: GOD
 ---
 
 ![Mom visiting her Dad, Grandpa Wood, in Grand Junction, ~1979](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-07/sb/mom_gpa-38033076.jpg?ts=1595969689)
 
 That is Mom visiting her Dad, Grandpa Wood, in Grand Junction, ~1979. I have so much more than the following to say about my Mom: [Sandra Beattie](https://www.hkfuneralhome.com/en-memorium/sandra-d-beattie).
 
-My Mom is now resting in peace, no more pain, no more frustration with being caged up in her own body and dependent on others for most everything. She spent most the past 10 years in a nursing home on top of being unable to walk at all since 1994.
+As "the dead know nothing at all," Mom has no more pain, no more frustration with being caged up in her own body and dependent on others for most everything. Due to her most loving and amazing caregiver, Dad, being freed from the toils of this world sooner, she spent most the past 10 years in a nursing home on top of being unable to walk at all since 1994.
 
 As a CNA, I told myself and my parents that I would not have them going to a nursing home, never! Well, at that time I never imagined a parent of MINE with such a disease so debilitating as MS can be. That was just a few people in the nursing home. Bizarre thing is that a lady a took special care of with MS followed me as a CNA from Grand Junction to Paonia, where my parents helped me take her to the 4th of July firworks. That fall after I went off to college is when Mom was diagnosed with MS, a couple weeks after Mom called me to say that this special lady had passed away due to a complication of MS. Damn crazy!
 
