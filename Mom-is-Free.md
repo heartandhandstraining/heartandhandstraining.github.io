@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mom is Free
-date: 
+date: 2020-08-21
 tagline: Mom
 category: GOD
 ---
