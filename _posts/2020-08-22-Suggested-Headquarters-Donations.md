@@ -1,0 +1,19 @@
+---
+layout: post
+title: Suggested Headquarters Donations
+category: GOD
+---
+
+[Interesting RE: Headquarters Donation](https://www.jehovahs-witness.com/topic/5739830511140864/world-wide-work-resolution-doubled-overnight?page=3) recently suggested or recommended for congregations. I am not surprised to see this, and I can relate. Being in attendance of one of the congregation's meetings when this announcement was made, I can say that it did strike me somewhat funny to have this Headquarter's donation request, but the amount was the equivalent of $8/person/year. Of course, some would be donating more and some less, all voluntary... However, it seems there is also donations that are desired and taken at local congregation and regional level, also. All-in-all, it would seem that these contriubtions would not be be too burdensome under ordinary circumstances of employment, etc.
+
+It goes both ways, that we do our best not to stumble others and, also not be stumbled by others, if we truly  are maintaining a good relationship with God. We cannot judge others and their situations's. As far as questioning the Governing Body, I think we are not in the position to do that if we truly believe that Body are appointed by Jesus to lead in gathering and maintaining Jehovah's flock. The Governing Body was only making a suggestion, and they do acknowledge that all have their own individual situations.
+
+I think a hard thing about being in subjection, is the pressure to meet what feels like an expectation or requirement, and the feeling guilty if not meeting that request. I think it is much harder for willing followers to say, "No," than it is for the Governing Body to accept that individuals may not feel they are in a position to give. I do believe the Governing Body (after listening to many of their "talks") understand people have their own unique circumstances and that God loves and knows the hearts of individuals. 
+
+If the Governing Body were unable to meet functional needs through the suggested donations, presumably they would adjust/evolve as best they could to make the available income do more of just the absolute necessities. I have noticed that it seems there has been money to fund a museum, which honestly seems to be extra. People just have to communicate and stand their ground if their situation necessitates that they give less of monetarily.
+
+Besides money, there are many ways of giving. If we have time, giving of our time to fellow Christians or anybody needing a listening ear or helping with some needed tasks of living is donation of what we have for the cause of gathering and maintaining God's flock. 
+
+Some people are able to give more monetarily and some more in time. All are beneficial and necessary to the cause. As I have grown older, I recognize that fact more clearly. I have generations of Jehovah Witnesses in my background. I totally relate to the stories of the lady pioneers who had husbands working 40 hours or more per week supporting their women, who did their pioneering. Both were happy supporting the "Kingdom" work in their way, the men just more quietly behind the women. I am not sure the all members of the congregation "got it" at the time, but I am sure that the Uncle I have in mind decided that was what he coud do for the congregation and whether the congregation accepted it or not was not his problem. He worked long night-shift hours underground and slept during the day and was a loving and supportive father, husband, and beloved neighbor, all ways of of being a Witness of God's ways. 
+
+Maybe more notice and/or discussion should have taken place, but I do not know there was any problem. The individual amoount suggested per person was actually pretty low and not mandatory. If individual persons feel they cannot do it monetarily, then so be it.
