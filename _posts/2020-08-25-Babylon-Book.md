@@ -4,18 +4,15 @@ title: Babylon Book
 category: GOD
 ---
 
-
-## "Babylon the Great has Fallen" - God's Kingdom Rules
-
 This is the book I wanted to study when I wanted to be baptized as a JW while living in Idaho shortly after graduating from nursing school in Utah. The person who was going to study with me wanted to study the basic books, the "Life" book (which I did study part of). Anyway, I had been through several of these books, including all of the Truth and Worship books, in Bible studies since my parents were baptized when I was around 12 years old. I have studied parts (not sure how much) of the Babylon but not from cover to cover (at least I think not), so I want to do that now. Anyway, I just wanted and needed to study that one more
 
-## Regarding the Initial Excitment of the Book in 1963
+#### Regarding the Initial Excitment of the Book in 1963
 
 Jehovah, that the Bible is his written Word, that Jehovah God is the Sovereign of the Universe, that men and nations have set up the United Nations rather than surrender to the sovereignty of God’s Messianic Kingdom, and that though nations have given idolatrous worship to that political image, this Jehovah’s witnesses refuse to do. The Resolution showed that radical governments have been formed, but that “We, as witnesses of God, the Source of life, will maintain our Christian steadfastness and have no part in such radical movements, but will hold fast to our Christian neutrality toward all radical and other types of human government over earth.” It stressed that the nations are being led by invisible wicked spirits to Armageddon, but that “we will not march with them to Har–Magedon, for we refuse to fight against God Almighty and his kingdom.” Jehovah’s witnesses, it was resolved, will continue to declare to all the ‘everlasting good news’ concerning God’s Messianic Kingdom.
 
 Following the adoption of the Resolution, Knorr spoke on the subject “Execution of Divine Judgment upon False Religion.” Here he stressed that the Bible teaches only one true religion, that the Devil is the source of false religion, which began in the ancient city of Babylon, founded by Nimrod who set himself in opposition to Jehovah God. After the confounding of the language of the builders of the Tower of Babel, men spread out to all parts of the earth, carrying with them their false Babylonish religious ideas. The identity of the mysterious Babylon the Great of the book of Revelation was revealed. It is a symbol for the world empire of false religion based on Babylon’s religion, be this professed Christian or pagan. What applause when Knorr announced that hundreds of thousands of persons have already forsaken her and are now preaching God’s kingdom, yes, to the number of 1,028,986 from 194 different lands during last April!
 
-## NEW BOOK CAUSES JUBILATION
+#### NEW BOOK CAUSES JUBILATION
 
 To climax his talk, the Society’s president released the new book “Babylon the Great Has Fallen” God’s Kingdom Rules! This 704-page book, he explained, is really two books in one. The first section deals with ancient Babylon, how it appears in the Hebrew Scriptures and what its relation was to God’s people, while the second section includes a verse-by-verse explanation of the book of Revelation, chapters 14 through 22. What jubilation throughout the 84,890 persons present at the New York assembly! Yes, these conventioners not only were happy, they were jubilant, for as one conventioner put it, “This is just what I have waited for, for years!” Eagerly, the conventioners obtained their copy, available on a contribution of 75c, perusing it with intense excitement. In the view of many conventioners, no book published by the Society had ever thrilled them more than “Babylon the Great Has Fallen!” God’s Kingdom Rules!
 
@@ -23,7 +20,7 @@ Sunday was the climactic day at Yankee Stadium and the New Rockland Palace, wher
 
 The delegates were now keenly awaiting the president’s closing remarks. They had been looking forward to this talk because they felt sure it would contain good news for the future. And it certainly did! Brother Knorr revealed that plans were in the making for some outstanding conventions to be held in the Western Hemisphere and larger ones in Europe, Asia and Africa in 1966 and extending on into 1967. Many of the brothers present from Newfoundland, Canada, Mexico, Peru, Chile and Brazil were thrilled to hear the names of their lands mentioned as possible sites for these assemblies. The Latin-American delegates, especially, were quick to act upon the president’s suggestion to the North American brothers by inviting these to make plans to travel southward.
 
-## RECORD CROWD AT MILWAUKEE
+#### RECORD CROWD AT MILWAUKEE
 
 The program at the New York assembly was typical of the assemblies around the world, as far as the spiritual rewards; but there were different features about each assembly. The assembly at Milwaukee, Wisconsin, the first of the around-the-world assemblies, drew much favorable comment by the local newspapers. The Milwaukee Star, for example, said in its issue of July 6, 1963: “Milwaukee is currently hosting approximately 50,000 of Jehovah’s Witnesses from 48 states and 12 other countries, in the midst of their Around-the-World International assembly for 1963. This is indeed an honor for our city. . . . Many of the Jehovah’s Witnesses our city is welcoming are Negroes, for this is one of the most integrated religions in the history of all the world. Negroes serve in all capacities in the Witness’ ranks. It is with a great deal of honor that the Milwaukee Star pays tribute to the Jehovah’s Witnesses, and the work they are doing for the good of all mankind. . . . We say to all of our readers: If you are able to make any of the sessions at Milwaukee County Stadium, remember that you are seeing freedom at work—in action.”
 
