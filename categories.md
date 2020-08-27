@@ -8,9 +8,11 @@ tagline: Topics and Posts List
 
 <div class = "container-fluid">
   <div class = "row justify-content-left">
-  <a title="God and Faith-related posts" href="#GOD">Bible Study</a>&nbsp;{{ site.bible}}
+  {{ site.bible }} => STUDY
   </div>
   <hr/>
+  <li><a href="{{ site.baseurl }}/Mom-is-Free/">{{ "Mom is Free" }}</a>
+    </li>
 {% for category in site.categories %}
   {% capture category_name %}{{ category | first }}{% endcapture %}
   <a id="{{ category_name | slugize }}">
@@ -21,7 +23,4 @@ tagline: Topics and Posts List
     </li>
   {% endfor %}
 {% endfor %}
-  <li><a href="{{ site.baseurl }}/Mom-is-Free/">{{ "Mom is Free" }}</a>
-  </li>
-  {{ site.bible }}
 </div>
