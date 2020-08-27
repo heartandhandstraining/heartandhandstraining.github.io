@@ -10,7 +10,7 @@ The better we become at teaching, the more joy we have in it; I must work on thi
 
 1. Questions stimulate interest, strike up a conversation, or help learn how a person thinks and direct the conversation in a direction. They can be used stimulate thinking and help people reason things out on their own and show the true motives of opposers. (Matthew 22: 41-45)
 
-We must follow Jesus example in asking questions and LISTENING to the answer.Everyone must be quick to listen, slow to speak, slow to anger,for man’s anger does not bring about God’s righteousness.(James 1:19) Wait for patiently for responses to our questions. Listen carefully because we care.
+We must follow Jesus example in asking questions and LISTENING to the answer. Everyone must be quick to listen, slow to speak, slow to anger,for man’s anger does not bring about God’s righteousness.(James 1:19) Wait for patiently for responses to our questions. Listen carefully because we care.
 
 The difficulty in asking questions is in formulating questions that a person has interest and would be willing to put thought to answer. Viewpoint questions invite a person to express thoughts and feelings. 
 
@@ -113,3 +113,5 @@ Questions to help draw the inner feelings and thought processes of the student: 
 As the person's love and understanding grows, he/she will be moved to make changes in their thinking to show love for God and faith in his guidance. "For this is what the love of God means, that we observe his commandments;"-1John 5:3.
 
 1 Thessalonians 2:19,20: " For what is our hope or joy or crown of exultation before our Lord Jesus at his presence? Is it not in fact you?u 20  You certainly are our glory and joy."
+
+“God Is Love” “He that does not love has not come to know God, because God is love.”​—1 JOHN 4:8. That has always been my favorite scripture. To me it says it all in a nutshell as to who God is and how we are suppose to be. Knowing Jehovah God and what he intended and plans for us through the Bible and knowing the beauty of his creations would seem to be enough to draw all humans to him. We know, as we see the state of many people in this world, that this is not the case. But, most of us know that it seems there are still many who do or who are capable of loving God. We must find these people, his sheep, and unite (or re-unite them with God and Jesus, so they may find the joy of loving and serving Him now and in his restored earthly paradise.

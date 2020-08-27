@@ -8,7 +8,7 @@ As I watch the events in this country and in the world, particularly the COVID-1
 
 ##### Bible Prophecy
 
-The meaty prophecies in the Bible still has some unfolding to do. Figurative accounts of the last days can be corroberated throughout the Bible. Find out [here](https://www.jw.org/en/library/magazines/watchtower-study-may-2020/) about the Rival Kings in the Time of the End spoken about in Daniel. Who or what is the [Wild Beast](https://www.jw.org/en/library/magazines/w20040401/Identifying-the-Wild-Beast-and-Its-Mark/) mentioned in the book of Revelantion?
+The meaty prophecies in the Bible still have some unfolding to do. Figurative accounts of the last days can be corroberated throughout the Bible. Find out [here](https://www.jw.org/en/library/magazines/watchtower-study-may-2020/) about the Rival Kings in the Time of the End spoken about in Daniel. Who or what is the [Wild Beast](https://www.jw.org/en/library/magazines/w20040401/Identifying-the-Wild-Beast-and-Its-Mark/) mentioned in the book of Revelantion?
 
 ##### The Basics
 
