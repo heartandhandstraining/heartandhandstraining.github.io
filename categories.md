@@ -8,8 +8,7 @@ tagline: Topics and Posts List
 
 <div class = "container-fluid">
   <div class = "row justify-content-left">
-    <a title="Certified Nurse Aide -Related posts" href="#CNA">CNA</a>,&nbsp;
-    <a title="Web Development & Networking -Related posts" href="#WEB">WEB</a>,&nbsp;<a title="God and Faith-related posts" href="#GOD">GOD</a>&nbsp;{{ site.bible}}
+  <a title="God and Faith-related posts" href="#GOD">Bible Study</a>&nbsp;{{ site.bible}}
   </div>
   <hr/>
 {% for category in site.categories %}
@@ -22,7 +21,7 @@ tagline: Topics and Posts List
     </li>
   {% endfor %}
 {% endfor %}
- {{ site.bible }}&nbsp;<span id="GOD">GOD, CNA</span>
   <li><a href="{{ site.baseurl }}/Mom-is-Free/">{{ "Mom is Free" }}</a>
   </li>
+  {{ site.bible }}
 </div>
