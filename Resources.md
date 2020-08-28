@@ -12,6 +12,9 @@ Best source of life guidance: {{ site.bible }}
 **Bible Education**
 [JW.ORG](https://jw.org/)
 
+**Another Theocratic Resources Site**
+[Strictly Genteel](http://www.strictlygenteel.co.uk/index.html)
+
 **Bible Study Aids**
 [Books](https://wol.jw.org/en/wol/library/r1/lp-e/all-publications/books), [Magazines](https://www.jw.org/en/library/magazines/), [Videos](https://www.jw.org/en/library/videos/#en/home)
 
