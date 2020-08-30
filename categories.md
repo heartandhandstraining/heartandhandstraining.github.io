@@ -7,11 +7,7 @@ tagline: Topics and Posts List
 ---
 
 <div class = "container-fluid">
-  <div class = "row justify-content-left">
-  {{ site.bible }} => STUDY
-  </div>
-  <hr/>
-  <li><a href="{{ site.baseurl }}/Mom-is-Free/">{{ "Mom is Free" }}</a>
+<li><a href="{{ site.baseurl }}/Mom-is-Free/">{{ "Mom is Free" }}</a>
     </li>
 {% for category in site.categories %}
   {% capture category_name %}{{ category | first }}{% endcapture %}

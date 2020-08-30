@@ -15,8 +15,12 @@
       <a id="arrow"href="#footer-icons" title="Footer Icon Links" class ="btn">VVV
       </a>
       {% if page.title == 'Mom is Free' %} 
-      <div class=" meta">updated {{ page.date | date: "%b %-d, %Y" }}
-      </div>
+        <div class=" meta">updated {{ page.date | date: "%b %-d, %Y" }}
+        {% else %}<hr/>
+          <div class = "row justify-content-center">
+          {{ site.bible }} => <a href="https://www.keepandshare.com/discuss2/mobile.php?i=183130&cat=1" target="_blank">STUDY (in-the-works!)
+          </div>
+        </div>
       </span>
       {% endif %}
     </div>
