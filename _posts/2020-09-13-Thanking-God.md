@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Thanking God
+title: Thanking God
 category: GOD
 ---
 
