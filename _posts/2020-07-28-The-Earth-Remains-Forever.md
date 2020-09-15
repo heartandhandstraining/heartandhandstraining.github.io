@@ -6,7 +6,7 @@ category: GOD, WEB
 
 More spiritual lessons beckon, which I will try to incorporate some technology in sharing. Refresh your page to see from start to finish, not much but this may be my finished version of this animation. 
 
-As a child in Sunday school, I really was not excited about going to 'heaven,' because my experiences at the time with life on earth were so amazing living out by the mines outside Jeffrey City, WY. Therefore, I was glad to learn this Bible truth! There is so much beauty in nature, and I have always enjoyed learning and doing so many things, so much so that it frustrating that I cannot pursue all subjects of knowledge and skill because I know life is currently limited. Learning that life can be forever then lifts that frustration away. I will have plenty of time in the future to endlessly pursue anything and everything!
+As a child in Sunday school, I really was not excited about going to 'heaven,' because my experiences at that time here on earth were so amazing living out by the mines outside Jeffrey City, WY. Therefore, I was glad to learn this Bible truth! There is so much beauty in nature, and I have always enjoyed learning and doing so many things, so much so that it frustrating that I cannot pursue all subjects of knowledge and skill because I know life is currently limited. Learning that life can be forever then lifts that frustration away. I will have plenty of time in the future to endlessly pursue anything and everything!
 
 {::nomarkdown}
 <svg version="1.0"  viewBox="-10 -35 217 217" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
