@@ -26,4 +26,4 @@ Best source of life guidance: {{ site.bible }}
 [Clearing Up Confusion Around baseurl -- Again](https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/)
 
 **css animation sample**
-[doneasy1.com](https://www.doneasy1.com)
+[doneasy1.com](https://www.doneasy1.com) Click the POWER button on the generator.
