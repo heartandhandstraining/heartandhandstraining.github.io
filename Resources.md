@@ -25,5 +25,5 @@ Best source of life guidance: {{ site.bible }}
 **gh-pages baseurl**
 [Clearing Up Confusion Around baseurl -- Again](https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/)
 
-**css animation sample**
+**svg w/ css animation sample**
 [doneasy1.com](https://www.doneasy1.com) Click the POWER button on the generator.
