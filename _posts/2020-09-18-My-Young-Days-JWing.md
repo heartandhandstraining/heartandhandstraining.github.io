@@ -8,7 +8,7 @@ category: GOD
 
 This is Thelma Humphrey and I at JW 1979 District Convention in Denver, CO. I very much enjoyed the convention itself. We went way to the top of a mountain, also, as a fun extracurricular activity. The only thing I did not like about the trip was that the mattress I slept on at a JW friends house had some sort of plastic cover on it that made me puff up when I slept on it (me and my allergies...)
 
-![https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-09/sb/usrasjoehallock_edited-58937952.jpg?ts=1600404694](Jim Brousseau, JW Joe Hallock, and I in Lander on a Wyoming trip in the spring of 1985)
+![Jim Brousseau, JW Joe Hallock, and I in Lander on a Wyoming trip in the spring of 1985](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-09/sb/usrasjoehallock_edited-58937952.jpg?ts=1600404694)
 
 This was a trip I made to Wyoming with a fellow Resident Advisor from the University of Utah. I talked this friend into "tripping" with me visit my ghost-town roots. We went out to the mines by Sheep Mountain where I used to live and my best friend's parents, the Frohbieters and one of the few folks still in Jeffrey City at that time. We, also visited Joe Hallock in Lander. 
 
