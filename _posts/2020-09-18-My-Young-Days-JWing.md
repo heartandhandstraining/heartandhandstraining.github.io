@@ -6,11 +6,11 @@ category: GOD
 
 The following is Thelma Humphrey and I at JW 1979 District Convention in Denver, CO. I very much enjoyed the convention itself. We went way to the top of a mountain, also, as a fun extracurricular activity. The only thing I did not like about the trip was that the mattress I slept on at a JW friends house had some sort of plastic cover on it that made me puff up when I slept on it (me and my allergies...)
 
-![Thelma Humphrey and I at JW 1979 District Convention in Denver, CO](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-09/ss/methelmaassembly_edited-85944452.jpg?ts=1600404695)
+![Thelma Humphrey and I at JW 1979 District Convention in Denver, CO](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-09/sb/methelmaassembly_edited-32748589.jpg?ts=1600404694)
 
-![Jim Brousseau, JW Joe Hallock, and I in Lander on a Wyoming trip in the spring of 1985](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-09/ss/usrasjoehallock_edited-3353810.jpg?ts=1600404694)
+The next pic was a trip I made to Wyoming with a fellow Resident Advisor from the University of Utah. No, I am not that short. Jim was pushing me down, goofing. And, his hair is not yellow as the light must have hit his brown hair strangely in that pic. I talked this friend into "tripping" with me visit my ghost-town roots. We went out to the mines by Sheep Mountain where I used to live and my best friend's parents, the Frohbieters and one of the few folks still in Jeffrey City at that time. We, also visited Joe Hallock in Lander. 
 
-The latter pic was a trip I made to Wyoming with a fellow Resident Advisor from the University of Utah. No, I am not that short. Jim was pushing me down, goofing. And, his hair is not yellow as the light must have hit his brown hair strangely in that pic. I talked this friend into "tripping" with me visit my ghost-town roots. We went out to the mines by Sheep Mountain where I used to live and my best friend's parents, the Frohbieters and one of the few folks still in Jeffrey City at that time. We, also visited Joe Hallock in Lander. 
+![Jim Brousseau, JW Joe Hallock, and I in Lander on a Wyoming trip in the spring of 1985](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-09/sb/usrasjoehallock_edited-58937952.jpg?ts=1600404694)
 
 Joe and his wife, Donna (Dune), studied with Mom and Dad before they got baptized in Billings, MT (district convention) when I was in about the 6th grade. Joe and Donna had actually donated the property that the Kingdom Hall and parking lot were built upon, so they lived right next to it. 
 
