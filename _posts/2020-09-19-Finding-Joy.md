@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Just Starting Circuit Assembly
+title: Finding Joy
 category: GOD
 ---
 
