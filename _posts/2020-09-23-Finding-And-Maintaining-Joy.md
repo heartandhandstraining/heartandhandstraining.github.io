@@ -6,7 +6,7 @@ category: GOD
 
 Again, I am blown away to the point of tears of humility and joy! I know it sounds crazy, but I never cease to be amazed at the organization of this worldwide organization serving any and all mankind to the very nooks and crannies of the earth, utilizing every tool imaginable as soon as it is available.
 
-Hopefully, this program will be made available to all, same as this past summer's [regional convention](https://www.jw.org/en/jehovahs-witnesses/conventions/) put on entirely by the Governing Body for the whole wide world, reaching and upbuilding them one way or the other, either TV on online, etc. Wow! Since I do not know when any of the videos may be added online, I want to share and review at the same time here.
+Hopefully, this program will be made available to all, same as this past summer's [regional convention](https://www.jw.org/en/jehovahs-witnesses/conventions/) put on entirely by the Governing Body for the whole wide world, reaching and upbuilding them one way or the other, either TV on online, etc. Wow! Since I do not know when (maybe after the 1st of the year is what I am thinking) any of the videos from this Circuit Assembly may be added online, I want to share and review at the same time here.
 
 So far, we are reviewing [Psalms 32: 1-11](https://www.jw.org/en/library/bible/study-bible/books/psalms/32/) and how we can rejoice in Jehovah's forgiveness, protection and instruction. Another scripture of note is [Isaiah 30:15](https://www.jw.org/en/library/bible/study-bible/books/isaiah/30/#v23030015):"...Your strength will be in keeping calm and showing trust..."
 
@@ -32,7 +32,7 @@ Review Question: What are 3 provision from Jehovah that bring us joy? Psalms 32:
 
 ### Maintaining Joy
 
-The second brother continued speaking of joy, and I will elaborate more as I review the videos. In maintaining Joy, sources are:
+The second brother, Brother Ferguson, continued speaking of joy, and I will elaborate more as I review the videos. In maintaining Joy, sources are:
 
 * Maintaining a close relationship with Jehovah.
   - We are in expectation of Jehovah. He cares so much. He is our helper and our shield - [Psalms 33:20](https://www.jw.org/en/library/bible/study-bible/books/psalms/33/#v19033020). See also [Psalms 5: 11,12](https://www.jw.org/en/library/bible/study-bible/books/psalms/5/#v19005011) 

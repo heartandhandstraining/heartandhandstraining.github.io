@@ -10,7 +10,7 @@ Best source of life guidance: {{ site.bible }}
 
 #### God
 **Bible Education**
-[JW.ORG](https://jw.org/)
+[JW.ORG](https://jw.org/) and its [footer app links](https://jw.org/#footer)
 
 **Another Theocratic Resources Site**
 [Strictly Genteel](http://www.strictlygenteel.co.uk/index.html)
