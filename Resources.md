@@ -16,7 +16,7 @@ Best source of life guidance: {{ site.bible }}
 [Strictly Genteel](http://www.strictlygenteel.co.uk/index.html)
 
 **Bible Study Aids**
-[Books](https://wol.jw.org/en/wol/library/r1/lp-e/all-publications/books), [Magazines](https://www.jw.org/en/library/magazines/), [Videos](https://www.jw.org/en/library/videos/#en/home), [Conventions](https://www.jw.org/en/jehovahs-witnesses/conventions/)
+[Books](https://wol.jw.org/en/wol/library/r1/lp-e/all-publications/books), [Magazines](https://www.jw.org/en/library/magazines/), [Songs](https://www.jw.org/en/library/music-songs/), [Videos](https://www.jw.org/en/library/videos/#en/home), [Conventions](https://www.jw.org/en/jehovahs-witnesses/conventions/)
 
 **Translations of the Bible**
 [In English](https://wol.jw.org/en/wol/bibles/r1/lp-e)
