@@ -8,7 +8,7 @@ I definitely more than owe thanks for all and everything I have, especially forg
 
 I love being able to listen to it in addition to reading it. I fell asleep listening last night and listeded again this morning when I awoke. 
 
-I need to review the associated scriptures, especially the referenced prophecies. This is important for solidifying my knowledge as well as being abel to discuss it with others.
+I need to review the associated scriptures, especially the referenced prophecies. This is important for solidifying my knowledge as well as being able to discuss it with others.
 
 
 
