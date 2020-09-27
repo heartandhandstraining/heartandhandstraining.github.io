@@ -26,5 +26,4 @@ Anyway, I did not attend another meeting until I moved back to Paonia right befo
 
 Gee! A very few dates because he did not live in Paonia the second time that I lived in there, which was only a couple of months! He appeared at a meeting while I was there, and I know I rode a tractor with him and went roller-skating... But again, he lived in Kansas and was a airplane pilot. I made him a huge afghan! LOL! Most of our relationship had been letter-writing that summer and into the following fall of college in Utah. I think I would have been fine marrying. I truly do. I sure felt I love him, and we both loved the truth. I respected my parents wisdom, though, and I still do. And, I also think God does direct us, so I figure this probably was not the way to go. My parents were not wrong, just ahead of their time in foreseeing that highschool educations are not enough to support oneself nowadays.  
 
-I have no regrets about my life of trying to make good choices and still messing up. I went down a different road another path of learning about life. I feel like I am coming back to focusing on the core of who I am, though.
-
+I have no regrets about my life of trying to make good choices and still messing up. I went down a different road, another path of learning about life. I feel like I am coming back to focusing on the core of who I am, though.
