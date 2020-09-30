@@ -4,7 +4,7 @@ title: What Does the Bible Really Teach?
 category: GOD
 ---
 
-I am just getting started on going through the 2 currently "required" books for baptism in a new way, hopefully, one benefits someone besides me. There are always more that could be added, like more supporting scriptures, etc, so feel free to comment. As I finish each chapter, the links to them will be completed.
+I am just getting started on going through the 2 currently "required" books for baptism in a new way, hopefully, one that benefits someone besides me. There is always more that could be added, like more supporting scriptures, etc, so feel free to comment. As I finish each chapter, the links to them will be completed.
 
 [Is This What God Purposed?](https://www.keepandshare.com/doc/8254044/is-this-what-god-purposed?ifr=y)
 
