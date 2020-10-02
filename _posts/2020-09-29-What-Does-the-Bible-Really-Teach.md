@@ -10,7 +10,7 @@ I am just getting started on going through the 2 currently "required" books ([Wh
 
 [CHAPTER 01 What Is the Truth About God?](https://www.keepandshare.com/doc/8253982/chapter-01-what-is-the-truth-about-god?ifr=y)
 
-[CHAPTER 02 The Bible—A Book From God](https://www.keepandshare.com/doc/8253983/chapter-02-the-bible-a-book-from-god)
+[CHAPTER 02 The Bible—A Book From God](https://www.keepandshare.com/doc/8253983/chapter-02-the-bible-a-book-from-god?ifr=y)
 
 [CHAPTER 03 What Is God’s Purpose for the Earth?]()
 
