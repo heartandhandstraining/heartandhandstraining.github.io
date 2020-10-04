@@ -26,7 +26,7 @@ Best source of life guidance: {{ site.bible }}
 [Clearing Up Confusion Around baseurl -- Again](https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/)
 
 **Pre-commit hook**
-[pre-commit hook to update date on jekyll-githbu pages](https://stackoverflow.com/questions/14978474/
+[pre-commit hook to update date on jekyll-githbu pages](https://stackoverflow.com/questions/14978474/)
 
 **svg w/ css animation sample**
 [doneasy1.com](https://www.doneasy1.com) Click the POWER button on the generator.
