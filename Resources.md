@@ -12,11 +12,14 @@ Best source of life guidance: {{ site.bible }}
 **Bible Education**
 [JW.ORG](https://jw.org/) and its [footer app links](https://jw.org/#footer)
 
-**Other Theocratic Resources Sites**
-[Strictly Genteel](http://www.strictlygenteel.co.uk/index.html), [Bible Hub](https://biblehub.com/)
-
 **Bible Study Aids**
 [Books](https://wol.jw.org/en/wol/library/r1/lp-e/all-publications/books), [Magazines](https://www.jw.org/en/library/magazines/), [Songs](https://www.jw.org/en/library/music-songs/), [Videos](https://www.jw.org/en/library/videos/#en/home), [Conventions](https://www.jw.org/en/jehovahs-witnesses/conventions/)
+
+**From Watchtower Bible & Tract Society**
+[Life—How Did It Get Here? By Evolution or by Creation?](https://wol.jw.org/en/wol/publication/r1/lp-e/ce), [Aid to Bible Understanding-WBTS,1971 on Scribd](https://www.scribd.com/document/283364330/1971-Aid-to-Bible-Understanding)
+
+**Other Theocratic Resources Sites**
+[Strictly Genteel for Older JW Books](http://www.strictlygenteel.co.uk/index.html), [Bible Hub](https://biblehub.com/)
 
 **Translations of the Bible**
 [In English](https://wol.jw.org/en/wol/bibles/r1/lp-e)
@@ -28,5 +31,5 @@ Best source of life guidance: {{ site.bible }}
 **Pre-commit hook**
 [pre-commit hook to update date on jekyll-githbu pages](https://stackoverflow.com/questions/14978474/)
 
-**svg w/ css animation sample**
+**SVG w/ css animation sample**
 [doneasy1.com](https://www.doneasy1.com) Click the POWER button on the generator.
