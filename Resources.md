@@ -1,6 +1,6 @@
 ---
 layout: default
-title: resources
+title: Resources
 tagline: Helpful External Links
 ---
 
