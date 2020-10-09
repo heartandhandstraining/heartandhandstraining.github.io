@@ -12,7 +12,7 @@ I am just getting started on going through the 2 currently "required" books ([Wh
 
 [CHAPTER 02 The Bible—A Book From God](https://www.keepandshare.com/doc/8253983/chapter-02-the-bible-a-book-from-god?ifr=y)
 
-[CHAPTER 03 What Is God’s Purpose for the Earth?](https://www.keepandshare.com/doc/8253984/chapter-03-what-is-god-s-purpose-for-the-earth?i=183130?ifr=y)
+[CHAPTER 03 What Is God’s Purpose for the Earth?](https://www.keepandshare.com/doc/8253984/chapter-03-what-is-god-s-purpose-for-the-earth?ifr=y)
 
 [CHAPTER 04 Who Is Jesus Christ?]()
 
