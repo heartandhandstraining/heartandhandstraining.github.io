@@ -14,7 +14,7 @@ I am just getting started on going through the 2 currently "required" books ([Wh
 
 [CHAPTER 03 What Is God’s Purpose for the Earth?](https://www.keepandshare.com/doc/8253984/chapter-03-what-is-god-s-purpose-for-the-earth?ifr=y)
 
-[CHAPTER 04 Who Is Jesus Christ?]()
+[CHAPTER 04 Who Is Jesus Christ?](https://www.keepandshare.com/doc/8253985/chapter-04-who-is-jesus-christ?ifr=y)
 
 [CHAPTER 05 The Ransom—God’s Greatest Gift]()
 
