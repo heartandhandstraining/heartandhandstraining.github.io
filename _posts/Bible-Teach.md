@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Does the Bible Really Teach?
+title: What Can the Bible Teach Us?
 category: GOD
 ---
 
