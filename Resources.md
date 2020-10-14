@@ -16,7 +16,7 @@ Best source of life guidance: {{ site.bible }}
 [Books](https://wol.jw.org/en/wol/library/r1/lp-e/all-publications/books), [Magazines](https://www.jw.org/en/library/magazines/), [Songs](https://www.jw.org/en/library/music-songs/), [Videos](https://www.jw.org/en/library/videos/#en/home), [Conventions](https://www.jw.org/en/jehovahs-witnesses/conventions/)
 
 **From Watchtower Bible & Tract Society**
-[Life—How Did It Get Here? By Evolution or by Creation?](https://wol.jw.org/en/wol/publication/r1/lp-e/ce), [Aid to Bible Understanding-WBTS,1971 on Scribd](https://www.scribd.com/document/283364330/1971-Aid-to-Bible-Understanding)
+[Life—How Did It Get Here? By Evolution or by Creation?](https://wol.jw.org/en/wol/publication/r1/lp-e/ce), [Aid to Bible Understanding](https://www.keepandshare.com/doc/8254193/aid-e-1971-pdf-128-9-meg?da=y)
 
 **Other Theocratic Resources Sites**
 [Strictly Genteel for Older JW Books](http://www.strictlygenteel.co.uk/index.html), [Bible Hub](https://biblehub.com/)
