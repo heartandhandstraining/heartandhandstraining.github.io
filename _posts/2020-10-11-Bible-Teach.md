@@ -10,6 +10,6 @@ I am just getting started on going through the 2 currently "required" books for 
 
 - [What is God's Purpose for Us?](https://www.keepandshare.com/doc/8254547/what-is-god-s-purpose-for-us?ifr=y#comments)
 
-- [Who is God?](https://www.keepandshare.com/doc/8254547/what-is-god-s-purpose-for-us?ifr=y)
+- [Who is God?](https://www.keepandshare.com/doc/8254548/chapter-01-who-is-god?ifr=y#comments)
 
 [How to Remain in God's Love](https://www.jw.org/en/library/books/in-gods-love/)
