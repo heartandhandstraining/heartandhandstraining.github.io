@@ -12,4 +12,6 @@ I am just getting started on going through the 2 currently "required" books for 
 
 - [Who is God?](https://www.keepandshare.com/doc/8254548/chapter-01-who-is-god?ifr=y#comments)
 
+- [The Bible - A Book from God](https://www.keepandshare.com/doc/8254549/chapter-02-the-bible-a-book-from-god#comments?ifr=y)
+
 [How to Remain in God's Love](https://www.jw.org/en/library/books/in-gods-love/)
