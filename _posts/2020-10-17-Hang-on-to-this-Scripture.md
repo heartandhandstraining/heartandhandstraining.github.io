@@ -3,7 +3,7 @@ layout: post
 title: Hang on to this Scripture!
 ---
 
-I never post as much as I have in my head to post, just not enough time. This is a necessary post because I am trying to make myself remember this scripture. From the 2020 Regional Convention, it left an impression on me, but I have had to go back 3 times to retrieve it because I can't seem to remember the exact place in the Bible, nor where I stashed it! 
+I never post as much as I have in my head to post, just not enough time. This is a necessary post because I am trying to make myself remember this scripture. From the [2020 Regional Convention](https://www.jw.org/en/jehovahs-witnesses/conventions/), it left an impression on me, but I have had to go back 3 times to retrieve it because I can't seem to remember the exact place in the Bible, nor where I stashed it! 
 
 This scripture has great significance to me in my own personal journey in growing with Jehovah and in more fully fulfilling his commandment to share/teach what I know to others. There are 2 scriptures that as a teen (or maybe even earlier) put to memory very well as being my first two favorite scriptures: [1John 4:8](https://www.jw.org/en/library/bible/study-bible/books/1-john/4/#v62004008) and [James 4:8](https://www.jw.org/en/library/bible/study-bible/books/james/4/#v59004008). This third one encompasses what I need and want to focus on in my sharing/teaching. 
 
