@@ -6,7 +6,7 @@ tagline: Helpful External Links
 
 # Resource Links
 
-Best source of life guidance: {{ site.bible }}
+Best source of life guidance: {{ site.bible }}, [JW.ORG Online Bible Study](https://www.jw.org/en/bible-teachings/online-lessons/)
 
 #### God
 **Bible Education**
