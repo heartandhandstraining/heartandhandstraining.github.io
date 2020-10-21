@@ -12,7 +12,7 @@ I am just getting started on going through the 2 currently "required" books for 
 
 - [Who is God?](https://www.keepandshare.com/doc/8254548/chapter-01-who-is-god?ifr=y#summary)
 
-- [The Bible - A Book from God](https://www.keepandshare.com/doc/8254549/chapter-02-the-bible-a-book-from-god?ifr=y#comments)
+- [The Bible - A Book from God](https://www.keepandshare.com/doc/8254549/chapter-02-the-bible-a-book-from-god?ifr=y#summary)
 
 - [What Is God’s Purpose for Humans?](https://www.keepandshare.com/doc/8254550/chapter-03-what-is-god-s-purpose-for-humans?ifr=y#summary)
 
