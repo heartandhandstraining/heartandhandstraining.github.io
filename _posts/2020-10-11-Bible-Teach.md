@@ -18,4 +18,6 @@ I am just getting started on going through the 2 currently "required" books for 
 
 - [Who is Jesus Christ?](https://www.keepandshare.com/doc/8254551/chapter-04-who-is-jesus-christ?ifr=y#summary)
 
+-[The Ransom-God's Greatest Gift](https://www.keepandshare.com/doc/8254556/chapter-05-the-ransom-god-s-greatest-gift?ifr=y#summary)
+
 [How to Remain in God's Love](https://www.jw.org/en/library/books/in-gods-love/)
