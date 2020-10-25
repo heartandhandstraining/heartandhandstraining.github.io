@@ -20,4 +20,6 @@ I am just getting started on going through the 2 currently "required" books for 
 
 - [The Ransom-God's Greatest Gift](https://www.keepandshare.com/doc/8254556/chapter-05-the-ransom-god-s-greatest-gift?ifr=y#summary)
 
+- [Where Do We Go When We Die?](https://www.keepandshare.com/doc/8254557/chapter-06-where-do-we-go-when-we-die?ifr=y#summary)
+
 [How to Remain in God's Love](https://www.jw.org/en/library/books/in-gods-love/)
