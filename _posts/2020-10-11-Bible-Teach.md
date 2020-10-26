@@ -22,4 +22,6 @@ I am just getting started on going through the 2 currently "required" books for 
 
 - [Where Do We Go When We Die?](https://www.keepandshare.com/doc/8254557/chapter-06-where-do-we-go-when-we-die?ifr=y#summary)
 
+- [There Will Be a Resurrection!](https://www.keepandshare.com/doc/8254558/chapter-07-there-will-be-a-resurrection?ifr=y#summary)
+
 [How to Remain in God's Love](https://www.jw.org/en/library/books/in-gods-love/)
