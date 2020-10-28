@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hang on to this Scripture!
+category: GOD
 ---
 
 I never post as much as I have in my head to post, just not enough time. This is a necessary post because I am trying to make myself remember this scripture. From the [2020 Regional Convention](https://www.jw.org/en/jehovahs-witnesses/conventions/), it left an impression on me, but I have had to go back 3 times to retrieve it because I can't seem to remember the exact place in the Bible, nor where I stashed it! 
