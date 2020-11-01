@@ -24,7 +24,7 @@ I am just getting started on going through the 2 currently "required" books for 
 
 - [There Will Be a Resurrection!](https://www.keepandshare.com/doc/8254558/chapter-07-there-will-be-a-resurrection?ifr=y#summary)
 
-- [What is God's Kingdom](https://www.keepandshare.com/doc/8254559/chapter-08-what-is-god-s-kingdom?ifr=y#summary
+- [What is God's Kingdom](https://www.keepandshare.com/doc/8254559/chapter-08-what-is-god-s-kingdom?ifr=y#summary)
 
 - [Is the End of the World Near?](https://www.keepandshare.com/doc/8254560/chapter-09-is-the-end-of-the-world-near?ifr=y#summary)
 
