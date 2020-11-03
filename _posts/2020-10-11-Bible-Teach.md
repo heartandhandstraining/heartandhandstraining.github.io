@@ -28,4 +28,6 @@ I am just getting started on going through the 2 currently "required" books for 
 
 - [Is the End of the World Near?](https://www.keepandshare.com/doc/8254560/chapter-09-is-the-end-of-the-world-near?ifr=y#summary)
 
+- [The Truth About the Angels](https://www.keepandshare.com/doc/8254561/chapter-10-the-truth-about-the-angels?ifr=y#summary)
+
 [How to Remain in God's Love](https://www.jw.org/en/library/books/in-gods-love/)
