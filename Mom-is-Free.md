@@ -84,4 +84,4 @@ I was so fortunate to be in on the earlier years of Mom and Dad's life together!
 
 ![Mom & Dad studying the Bible](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-07/sb/mom_dad_bible-97906915.jpg?ts=1595967472)
 
-This is the Mom and Dad that I knew growing up. I took this picture the summer of 1978, not long after moving from Wyoming to the Paonia acreage. Mom and Dad were avid Bible students doing it together, as they most always anything they could. With that, I have decided I will spend more time doing the same: [HERE]({{ site.baseurl }}/categories/#GOD).
+This is the Mom and Dad that I knew growing up. I took this picture the summer of 1978, not long after moving from Wyoming to the Paonia acreage. Mom and Dad were avid Bible students doing it together, as they most always did anything. With that, I have decided I will spend more time doing the same: [HERE]({{ site.baseurl }}/categories/#GOD).
