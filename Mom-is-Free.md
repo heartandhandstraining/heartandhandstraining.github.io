@@ -8,7 +8,7 @@ category: GOD
 
 ![Mom visiting her Dad, Grandpa Wood, in Grand Junction, ~1978 or 1979](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-07/sb/mom_gpa-38033076.jpg?ts=1595969689)
 
-That is Mom visiting her Dad, Grandpa Wood, in Grand Junction, ~1979. I have so much more than the following to say about my Mom: [Sandra Beattie](https://www.hkfuneralhome.com/en-memorium/sandra-d-beattie).
+Above is Mom visiting her Dad, Grandpa Wood and avid Bible enthusiast, in Grand Junction, ~1979. This page was added periodically over a few months, from Mom's death on April 01, 2020 to about July 2020, because I wanted to say so much more than at this link: [Sandra Beattie](https://www.hkfuneralhome.com/en-memorium/sandra-d-beattie). I probably did not say all (probably plenty of typos...), but I have said a lot and have decided to move on with memory of Mom and Dad in mind.
 
 As "the dead know nothing at all," (Ecclesiastes 9:5) Mom now has no more pain, no more frustration with being caged up in her own body and dependent on others for most everything. Due to her most loving and amazing caregiver, Dad, being freed from the toils of this world sooner, she spent most the past 10 years in a nursing home on top of being unable to walk at all since 1994.
 
