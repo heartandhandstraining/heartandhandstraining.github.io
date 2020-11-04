@@ -20,6 +20,6 @@ The persons with troubling stories probably have real problems of some sort and 
 
 Horrible things can happen anywhere with anyone to anyone in this world, due to Satan ravenously trying to divert everyone from Jehovah in these "last days". Jehovah's Witness are not immune to this problem, though they try to be. That is why the Jehovah's Witnesses try so hard to find and properly address and correct any issues of wrongdoing amongst members; it is for the protection and representation of all members. It is to provide good witness to Jehovah and Jesus, who they are and their unchanged purpose for all creation. 
 
-Just like my <a href="/Mom-is-Free/#top">parents</a>, I encourage all who want to come to know God to delve into the wealth information on [JW.ORG](https://www.jw.org/). Feel free to [contact]("/contact/") me, also, to discuss Bible-related topics.
+Just like my <a href="/Mom-is-Free/#PRAY">parents</a>, I encourage all who want to come to know God to delve into the wealth information on [JW.ORG](https://www.jw.org/). Feel free to [contact]("/contact/") me, also, to discuss Bible-related topics.
 
 
