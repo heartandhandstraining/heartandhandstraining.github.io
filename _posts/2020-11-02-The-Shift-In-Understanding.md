@@ -4,9 +4,7 @@ title: The Shift in Understanding
 category: GOD
 ---
 
-**The bottom line of this blurb:** 
-
-The Jehovah's Witnesses DO teach the Bible Truth that *it is Jesus, with Jehovah's backing and appointment, who will be ultimatelhy be doing this final separation of the sheep and the goats*. All mankind needs to know about this work and know about the current efforts of Jehovah's earthly Organization in that regard and get and stay prepared for what is ahead.
+**The bottom line of this blurb:** The Jehovah's Witnesses DO teach the Bible Truth that *it is Jesus, with Jehovah's backing and appointment, who will be ultimatelhy be doing this final separation of the sheep and the goats*. All mankind needs to know about this work and know about the current efforts of Jehovah's earthly Organization in that regard and get and stay prepared for what is ahead.
 
 I have been racking my brain, trying to decide whether I remember if I knew of a certain belief or if I am imagining that I do by the power of suggestion. I think I might have known of it because this effort to remember this belief puts me back visually to a sunshiny day in probably 1979, going in or out of our trailer house with its green indoor-outdoor carpet on the porch/deck in Paonia, CO, probably after a meeting at the Hall on a Sunday afternoon. I seems I was maybe gravelling or mulling around the idea that the Jehovah's Witnesses are doing the separating of the sheep and the goats in a perplexed fashion. Whatever the case that idea did not take hold center-front in my mind, but maybe in the back of my head somewhere, and it definitely did not take hold with my parents because they pretty much made a point of always letting anybody know that Jehovah and Jesus were the only ones who could see into our hearts and had the right to judge us based on our heart conditions. I definitely paid attention to my parents beliefs and reactions to JWs, as I was not the rebellious sort of kid, especially respecting their wisdom, even when I did not totally understand it.
 
