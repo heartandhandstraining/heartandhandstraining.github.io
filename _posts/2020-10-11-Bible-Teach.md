@@ -4,7 +4,7 @@ title: What Can the Bible Teach Us?
 category: GOD
 ---
 
-I am just getting started on going through the 2 currently "required" books for baptism in a new way, hopefully, one that also benefits someone besides me. There is always more that could be added, like more supporting scriptures, etc, so feel free to comment or ask questions. As I finish each chapter,  the links to them will be completed. 
+I am just getting started on going through the 2 currently "required" books for baptism in a new way, hopefully, one that also benefits someone besides me. There is always more that could be added, like more supporting scriptures, etc, so feel free to comment or ask questions. As I go through each chapter,  the links to them will be completed. I will refine the chapter review games as time goes by, and I will by watching for questions and comments.
 
 [What Does the Bible Really Teach?](https://www.jw.org/en/library/books/bible-teach/), ([Videos](https://www.jw.org/en/library/books/Bible-Study-Video-Reference-Guide/What-Can-the-Bible-Teach-Us/)), [Endnotes](https://www.jw.org/en/library/books/bible-study/glossary/)
 
