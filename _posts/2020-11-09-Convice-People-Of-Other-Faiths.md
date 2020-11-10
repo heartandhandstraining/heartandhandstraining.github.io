@@ -19,7 +19,7 @@ Since I have so many of these sorts in my family and friend base, I have long fe
 
     * [Supposedly 3 basically monotheistic religions](https://www.facinghistory.org/holocaust-and-human-behavior/chapter-1/religion-and-identity)
 
-        - Christianity (non-JW) is primarily [Trinitarian](https://en.wikipedia.org/wiki/Nontrinitarianism)
+        - Christianity (non-JW) is primarily [Trinitarian](https://en.wikipedia.org/wiki/Nontrinitarianism) (See all of the Polytheism links below.)
 
         - Judaism [has never accepted...the fulfillments of prophecy](https://en.wikipedia.org/wiki/Judaism%27s_view_of_Jesus) that Christianity attributes to Jesus.
 
