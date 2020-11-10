@@ -15,7 +15,7 @@ Since I have so many of these sorts in my family and friend base, I have long fe
 
 2. The [*abundance*](https://www.jw.org/en/library/bible/study-bible/books/daniel/12/#v27012004) of [*readily available*](https://www.jw.org/) true knowledge shared freely with anyone and everyone [*around the world*](https://www.jw.org/en/library/bible/study-bible/books/isaiah/11/#v23011009)
 
-3. Monotheism of Jehovah's Witnesses vs. Babylonish polytheism, to which Jehovah has several times in history put an end to and will soon again do once and for all! To me this distinction takes a backseat to the first two, but the following can helpful in shedding light on this distinction.
+3. Monotheism of Jehovah's Witnesses vs. Babylonish polytheism, to which Jehovah has several times in history put an end to and will soon again do once and for all! With these accounts, Jehovah rescued the few who were righteous in his eyes, and the [*same applies*](https://www.jw.org/en/library/bible/study-bible/books/matthew/7/#v40007013-v40007014) to His final "clean-up" of earth's people. To me this distinction takes a backseat to the first two, but the following can helpful in shedding light on this distinction.
 
     * [Supposedly 3 basically monotheistic religions](https://www.facinghistory.org/holocaust-and-human-behavior/chapter-1/religion-and-identity)
 
