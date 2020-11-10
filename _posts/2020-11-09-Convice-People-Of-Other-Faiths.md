@@ -19,11 +19,11 @@ Since I have so many of these sorts in my family and friend base, I have long fe
 
     * [Supposedly 3 basically monotheistic religions](https://www.facinghistory.org/holocaust-and-human-behavior/chapter-1/religion-and-identity)
 
-            *Christianity* (non-JW) is primarily [Trinitarian](https://en.wikipedia.org/wiki/Nontrinitarianism)
+            -Christianity (non-JW) is primarily [Trinitarian](https://en.wikipedia.org/wiki/Nontrinitarianism)
 
-            *Judaism* ["has never accepted...the fulfillments of prophecy that Christianity attributes to Jesus."](https://en.wikipedia.org/wiki/Judaism%27s_view_of_Jesus)
+            -Judaism [has never accepted...the fulfillments of prophecy that Christianity attributes to Jesus.](https://en.wikipedia.org/wiki/Judaism%27s_view_of_Jesus)
 
-            *Islam* uses the Bible ["to fill in the gaps of their own scriptural traditions"](https://bibleinterp.arizona.edu/articles/muslims-and-bible-biblicists-and-islam)
+            -Islam uses the Bible [to fill in the gaps of their own scriptural traditions](https://bibleinterp.arizona.edu/articles/muslims-and-bible-biblicists-and-islam)
 
     * [Polytheism encompasses most Religions of the World](https://www.britannica.com/topic/polytheism)
 
