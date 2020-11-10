@@ -31,7 +31,7 @@ Since I have so many of these sorts in my family and friend base, I have long fe
 
         - [*History of the Trinity*](https://www.trinityhistory.com/chapters/chapter-1-the-history-of-the-trinity)
 
-4. The entire Bible tells a complete and logical story of how everlasting life in paradise was lost with prophecies of the resulting trials and miseries, most of which have been fulfilled with the remaining prophecies to be fulfilled, including Jehovah taking over rulership of His the restored paradise earth and the chosen sheep brought to perfection during Jesus 1000 year reign.
+4. The entire Bible tells a complete and logical story of how everlasting life in paradise was lost with prophecies of the resulting trials and miseries, most of which have been fulfilled with the remaining prophecies to be fulfilled, including [Jehovah returning to rulership](https://www.jw.org/en/library/bible/study-bible/books/1-corinthians/15/#v46015028) over the restored paradise earth its chosen sheep brought to perfection during Jesus 1000 year reign.
 
 The above are the things that I believe should be of most use to open eyes of those who seem satisfied in their mainstream religions and their life because of that. Though these people may and do seem to exist, no doubt this is likely a fleeting thing. Most all people can in some way relate to [*signs of the last days*](https://www.jw.org/en/library/bible/study-bible/books/matthew/24/#v40024003-v40024014) and man's attitudes in our current [*critical times hard to deal with*](https://www.jw.org/en/library/bible/study-bible/books/2-timothy/3/#v55003001-v55003007) and as a result see the need for the relief and hope that God's Word provides.
 
