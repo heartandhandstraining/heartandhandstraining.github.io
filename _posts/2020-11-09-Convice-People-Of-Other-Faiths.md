@@ -25,7 +25,7 @@ Since I have so many of these sorts in my family and friend base, I have long fe
 
         - Islam uses the Bible [to fill in the gaps of their own scriptural traditions](https://bibleinterp.arizona.edu/articles/muslims-and-bible-biblicists-and-islam)
 
-    * [Polytheism encompasses most Religions of the World](https://www.britannica.com/topic/polytheism)
+    * [Polytheism](https://www.britannica.com/topic/polytheism) encompasses most Religions of the World.
 
         - [*Triple Deities Origin*](https://en.wikipedia.org/wiki/Triple_deity)
 
