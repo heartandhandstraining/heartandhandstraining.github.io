@@ -19,7 +19,6 @@ Since I have so many of these sorts in my family and friend base, I have long fe
 
     * [Supposedly 3 basically monotheistic religions](https://www.facinghistory.org/holocaust-and-human-behavior/chapter-1/religion-and-identity)
 
-        - One can investigate those 3 basic religions:
             *Christianity* (non-JW) is primarily [*Trinitarian*](https://en.wikipedia.org/wiki/Nontrinitarianism)
 
             *Judaism* [*"has never accepted...the fulfillments of prophecy that Christianity attributes to Jesus."*](https://en.wikipedia.org/wiki/Judaism%27s_view_of_Jesus)
@@ -34,7 +33,7 @@ Since I have so many of these sorts in my family and friend base, I have long fe
 
 4. The entire Bible tells a complete and logical story of how everlasting life in paradise was lost, prophecies of resulting trials and miseries, most prophecies fulfilled and what little is left to be fulfilled in the regaining of everlasting life in paradise with God's Government being it's perfect and everlasting rulership.
 
-The above are the things that I believe should be of most use to open eyes of those who seem satisfied in their mainstream religions and their life because of that. Though these people may and do seem to exist, no doubt this is likely a fleeting thing. Most all people, also, can in some way relate to [*signs of the last days*](https://www.jw.org/en/library/bible/study-bible/books/matthew/24/#v40024003-v40024014) and man's attitudes in our current [*critical times hard to deal with*](https://www.jw.org/en/library/bible/study-bible/books/2-timothy/3/#v55003001-v55003007) and as a result see the need for the relief that God's Word provides.
+The above are the things that I believe should be of most use to open eyes of those who seem satisfied in their mainstream religions and their life because of that. Though these people may and do seem to exist, no doubt this is likely a fleeting thing. Most all people, also, can in some way relate to [*signs of the last days*](https://www.jw.org/en/library/bible/study-bible/books/matthew/24/#v40024003-v40024014) and man's attitudes in our current [*critical times hard to deal with*](https://www.jw.org/en/library/bible/study-bible/books/2-timothy/3/#v55003001-v55003007) and as a result see the need for the relief and hope that God's Word provides.
 
     
 
