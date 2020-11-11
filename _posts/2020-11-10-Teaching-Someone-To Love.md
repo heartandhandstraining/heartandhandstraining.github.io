@@ -34,7 +34,7 @@ James 1:27 The form of worship that is clean and undefiled from the standpoint o
 
 [Romans 13:8](https://www.jw.org/en/library/bible/study-bible/books/romans/13/#v45013008) Do not owe anything to anyone except to love one another; for whoever loves his fellow man has fulfilled the law.
 
-Galatians 5:6 For in union with Christ Jesus, neither circumcision nor uncircumcision is of any value, but faith operating through love is.
+[Galatians 5:6](https://www.jw.org/en/library/bible/study-bible/books/galatians/5/#v48005006) For in union with Christ Jesus, neither circumcision nor uncircumcision is of any value, but faith operating through love is.
 
 
 
