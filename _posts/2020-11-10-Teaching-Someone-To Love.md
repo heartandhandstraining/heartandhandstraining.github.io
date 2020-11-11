@@ -16,13 +16,13 @@ cleanse and guard your heart ....
 
 [1 Timothy 1](https://www.jw.org/en/library/bible/study-bible/books/1-timothy/1/#v54001005-v54001007):Really, the objective of this instruction is love out of a clean heart and out of a good conscience and out of faith without hypocrisy. By deviating from these things, some have been turned aside to meaningless talk. They want to be teachers of law, but they do not understand either the things they are saying or the things they insist on so strongly.
 
-[Deuteronomy 30:6](https://www.jw.org/en/library/bible/study-bible/books/deuteronomy/30/#v5030006)Jehovah your God will cleanse your heart and the heart of your offspring, so that you will love Jehovah your God with all your heart and all your soul and you may live.
+[Deuteronomy 30:6](https://www.jw.org/en/library/bible/study-bible/books/deuteronomy/30/#v5030006) Jehovah your God will cleanse your heart and the heart of your offspring, so that you will love Jehovah your God with all your heart and all your soul and you may live.
 
 [1 Timothy 6:20,21](https://www.jw.org/en/library/bible/study-bible/books/1-timothy/6/#v54006020-v54006021): Timothy, guard what has been entrusted to you,a turning away from the empty speeches that violate what is holy and from the contradictions of the falsely called “knowledge.” By making a show of such knowledge, some have deviated from the faith.
 
 [Deuteronomy 10:15-19](https://www.jw.org/en/library/bible/study-bible/books/deuteronomy/10/#v5010018https://www.jw.org/en/library/bible/study-bible/books/deuteronomy/10/#v5010016-v5010019): But only to your forefathers did Jehovah draw close and express his love, and he has chosen you, their offspring, out of all the peoples, as you are today. You must now cleanse your hearts and stop being so stubborn. For Jehovah your God is the God of gods and the Lord of lords, the God great, mighty, and awe-inspiring, who treats none with partiality and does not accept a bribe. He executes justice for the fatherless child and the widow and loves the foreign resident,d giving him food and clothing. You too must love the foreign resident, for you became foreign residents in the land of Egypt.
 
-[Deuteronomy 10:16](https://www.jw.org/en/library/bible/study-bible/books/deuteronomy/10/#v5010016 You must now cleanse* your heartsy and stop being so stubborn.
+[Deuteronomy 10:16](https://www.jw.org/en/library/bible/study-bible/books/deuteronomy/10/#v5010016) You must now cleanse* your heartsy and stop being so stubborn.
 
 Regarding [stubborness](https://wol.jw.org/en/wol/d/r1/lp-e/1200004251): The basic meaning of the various original-language words that convey the idea of stubbornness is hardness or strength, especially in a bad sense. Often a deliberate refusal to comply with God’s will or commands is involved. 
 
