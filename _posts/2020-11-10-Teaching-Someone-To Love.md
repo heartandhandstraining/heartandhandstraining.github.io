@@ -24,17 +24,17 @@ Jehovah your God will cleanse your heart and the heart of your offspring, so tha
 
 Regarding [stubborness](https://wol.jw.org/en/wol/d/r1/lp-e/1200004251): The basic meaning of the various original-language words that convey the idea of stubbornness is hardness or strength, especially in a bad sense. Often a deliberate refusal to comply with God’s will or commands is involved. 
 
-James 1:27 The form of worship that is clean and undefiled from the standpoint of our God and Father is this: to look after orphans and widows in their tribulation, and to keep oneself without spot from the world.
+[James 1:27](https://www.jw.org/en/library/bible/study-bible/books/james/1/#v59001027) The form of worship that is clean and undefiled from the standpoint of our God and Father is this: to look after orphans and widows in their tribulation, and to keep oneself without spot from the world.
 
-1 John 4:8 For those who do not love have not come to know because God is love.
+[1 John 4:8](https://www.jw.org/en/library/bible/study-bible/books/1-john/4/#v62004008): For those who do not love have not come to know because God is love.
 
 [Proverbs 28:14](https://www.jw.org/en/library/bible/study-bible/books/proverbs/28/#v20028014): Happy is the man who is always on guard, But whoever hardens his heart will fall into calamity.
 
-[Proverbs 4:23](https://www.jw.org/en/library/bible/study-bible/books/proverbs/4/#v20004023)Above all the things that you guard, safeguard your heart,For out of it are the sources of life.
+[Proverbs 4:23](https://www.jw.org/en/library/bible/study-bible/books/proverbs/4/#v20004023): Above all the things that you guard, safeguard your heart,For out of it are the sources of life.
 
-[Romans 13:8](https://www.jw.org/en/library/bible/study-bible/books/romans/13/#v45013008) Do not owe anything to anyone except to love one another; for whoever loves his fellow man has fulfilled the law.
+[Romans 13:8](https://www.jw.org/en/library/bible/study-bible/books/romans/13/#v45013008): Do not owe anything to anyone except to love one another; for whoever loves his fellow man has fulfilled the law.
 
-[Galatians 5:6](https://www.jw.org/en/library/bible/study-bible/books/galatians/5/#v48005006) For in union with Christ Jesus, neither circumcision nor uncircumcision is of any value, but faith operating through love is.
+[Galatians 5:6](https://www.jw.org/en/library/bible/study-bible/books/galatians/5/#v48005006): For in union with Christ Jesus, neither circumcision nor uncircumcision is of any value, but faith operating through love is.
 
 
 
