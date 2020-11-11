@@ -30,6 +30,6 @@ I am just getting started on going through the 2 currently "required" books for 
 
 - [The Truth About the Angels](https://www.keepandshare.com/doc/8254561/chapter-10-the-truth-about-the-angels?ifr=y#summary)
 
-- [Why So Much Suffering?](https://www.keepandshare.com/doc/8254570/chapter-11-why-so-much-suffering?i=183130)
+- [Why So Much Suffering?](https://www.keepandshare.com/doc/8254570/chapter-11-why-so-much-suffering?ifr=y#summary)
 
 [How to Remain in God's Love](https://www.jw.org/en/library/books/in-gods-love/)
