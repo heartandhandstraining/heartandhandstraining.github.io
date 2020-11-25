@@ -3,7 +3,7 @@ tagline: dedicated to our Creator, Jehovah, thru His son Jesus
 
 description: Follower of Jehovah and Jesus. Wife and Mom of 2 adult daughters. Full-Stack Web Developer & Network Engineer Trainee. Self-Employed CNA/AHA Instructor, Past Long-Term Care Administrator & Shepherd/Fiber Arts Enthusiast
 email: dawnann@heartandhandstraining.com
-url: "http://www.heartandhandstraining.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://heartandhandstraining.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 author: Dawn Ann Beattie, RN,MBA
 share: true
