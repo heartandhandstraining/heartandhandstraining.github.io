@@ -6,15 +6,14 @@ tagline: Helpful External Links
 
 # Resource Links
 
-Best source of life guidance: {{ site.bible }}, [JW.ORG Online Bible Study](https://www.jw.org/en/bible-teachings/online-lessons/)
+Best source of life guidance: {{ site.bible }}+ [JW.ORG Online Bible Study](https://www.jw.org/en/bible-teachings/online-lessons/)
 
 #### God
 **Bible Education**
 [JW.ORG](https://jw.org/) and its [footer app links](https://jw.org/#footer)
 
 **Bible Study Aids**
-[Study Tips](https://www.keepandshare.com/doc/8256091/make-your-bible-study-more-effective?ifr=y)
-[Books](https://wol.jw.org/en/wol/library/r1/lp-e/all-publications/books), [Magazines](https://www.jw.org/en/library/magazines/), [Songs](https://www.jw.org/en/library/music-songs/), [Videos](https://www.jw.org/en/library/videos/#en/home), [Conventions](https://www.jw.org/en/jehovahs-witnesses/conventions/)
+[Study Tips](https://www.keepandshare.com/doc/8256091/make-your-bible-study-more-effective?ifr=y),[Books](https://wol.jw.org/en/wol/library/r1/lp-e/all-publications/books), [Magazines](https://www.jw.org/en/library/magazines/), [Songs](https://www.jw.org/en/library/music-songs/), [Videos](https://www.jw.org/en/library/videos/#en/home), [Conventions](https://www.jw.org/en/jehovahs-witnesses/conventions/)
 
 **From Watchtower Bible & Tract Society**
 [Life—How Did It Get Here? By Evolution or by Creation?](https://wol.jw.org/en/wol/publication/r1/lp-e/ce), [Aid to Bible Understanding](https://www.keepandshare.com/doc/8254193/aid-bible-understanding-1971-pdf-128-9-meg)
