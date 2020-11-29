@@ -34,6 +34,6 @@ I am just getting started on going through the 2 currently "required" books for 
 
 - [How Can You Become God’s Friend?](https://www.keepandshare.com/doc/8254571/chapter-12-how-can-you-become-god-s-friend?ifr=y#summary)
 
--[Respect the Gift of Life](https://www.keepandshare.com/doc/8254572/chapter-13-respect-the-gift-of-life?ifr=y#summary)
+- [Respect the Gift of Life](https://www.keepandshare.com/doc/8254572/chapter-13-respect-the-gift-of-life?ifr=y#summary)
 
 [How to Remain in God's Love](https://www.jw.org/en/library/books/in-gods-love/)
