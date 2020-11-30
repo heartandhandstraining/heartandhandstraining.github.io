@@ -36,4 +36,6 @@ I am just getting started on going through the 2 currently "required" books for 
 
 - [Respect the Gift of Life](https://www.keepandshare.com/doc/8254572/chapter-13-respect-the-gift-of-life?ifr=y#summary)
 
+- [Your Family Can Be Happy](https://www.keepandshare.com/doc/8254573/chapter-14-your-family-can-be-happy?ifr=y#summary)
+
 [How to Remain in God's Love](https://www.jw.org/en/library/books/in-gods-love/)
