@@ -38,4 +38,5 @@ I am just getting started on going through the 2 currently "required" books for 
 
 - [Your Family Can Be Happy](https://www.keepandshare.com/doc/8254573/chapter-14-your-family-can-be-happy?ifr=y#summary)
 
+- [The Right Way to Worship](https://www.keepandshare.com/doc/8254574/chapter-15-the-right-way-to-worship-god?ifr=y#summary)
 [How to Remain in God's Love](https://www.jw.org/en/library/books/in-gods-love/)
