@@ -40,4 +40,6 @@ I am just getting started on going through the 2 currently "required" books for 
 
 - [The Right Way to Worship](https://www.keepandshare.com/doc/8254574/chapter-15-the-right-way-to-worship-god?ifr=y#summary)
 
+- [Choose to Worship God](https://www.keepandshare.com/doc/8254575/chapter-16-choose-to-worship-god?ifr=y#summary)
+
 [How to Remain in God's Love](https://www.jw.org/en/library/books/in-gods-love/)
