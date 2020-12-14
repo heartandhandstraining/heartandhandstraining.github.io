@@ -4,7 +4,7 @@ title: Make Disciples of Them
 category: GOD
 ---
 
-The better we become at teaching, the more joy we have in it; I must work on this, so I can share God's promises effectively with others. This involves helping people to love God by helping them to know God by studying his Word. The  conversation, helps us learn how a person thinks so as to direct the conversation in a direction. They can be uselaw of God upon my heart must remain in my heart.(Psalm 37:31)"I really delight in the law of God according to the man I am within,"(Romans 7:22)(Psalms 40:8; Luke 10:17, 21). I must always pray for myself and others: "Instruct me, O Jehovah, about your way. I will walk in your truth. Unify my heart* to fear your name. I praise you, O Jehovah my God, with all my heart, And I will glorify your name forever,​—PS. 86:11, 12.
+The better we become at teaching, the more joy we have in it; I must work on this, so I can share God's promises effectively with others. This involves helping people to love God by helping them to know God by studying his Word. The  conversations we have, help us learn how a person thinks so as to direct the conversation in a direction. "The law of God upon my heart must remain in my heart."(Psalm 37:31)"I really delight in the law of God according to the man I am within,"(Romans 7:22; Psalms 40:8; Luke 10:17, 21). I must always pray for myself and others: "Instruct me, O Jehovah, about your way. I will walk in your truth. Unify my heart* to fear your name. I praise you, O Jehovah my God, with all my heart, And I will glorify your name forever,​—PS. 86:11, 12.
 
 #### Asking Questions
 
