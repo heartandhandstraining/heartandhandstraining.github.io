@@ -4,13 +4,13 @@ title: Make Disciples of Them
 category: GOD
 ---
 
-The better we become at teaching, the more joy we have in it; I must work on this, so I can share God's promises effectively with others. (Psalms 40:8; Luke 10:17, 21).
+The better we become at teaching, the more joy we have in it; I must work on this, so I can share God's promises effectively with others. This involves helping people to love God by helping them to know God by studying his Word. The  conversation, help us learn how a person thinks and directs the conversation in a direction. They can be uselaw of God upon my heart must remain in my heart.(Psalm 37:31)"I really delight in the law of God according to the man I am within,"(Romans 7:22)(Psalms 40:8; Luke 10:17, 21). I must always pray for myself and others: "Instruct me, O Jehovah, about your way. I will walk in your truth. Unify my heart* to fear your name. I praise you, O Jehovah my God, with all my heart, And I will glorify your name forever,​—PS. 86:11, 12.
 
 #### Asking Questions
 
-1. Questions stimulate interest, strike up a conversation, or help learn how a person thinks and direct the conversation in a direction. They can be used stimulate thinking and help people reason things out on their own and show the true motives of opposers. (Matthew 22: 41-45)
+1. Questions stimulate interest, strike up ad stimulate thinking and help people reason things out on their own and show the true motives of opposers. (Matthew 22:41-45)
 
-We must follow Jesus example in asking questions and LISTENING to the answer. Everyone must be quick to listen, slow to speak, slow to anger,for man’s anger does not bring about God’s righteousness.(James 1:19) Wait for patiently for responses to our questions. Listen carefully because we care.
+We must follow Jesus example in asking questions and LISTENING to the answer. Everyone must be quick to listen, slow to speak, slow to anger, for man’s anger does not bring about God’s righteousness.(James 1:19) Wait patiently for responses to our questions. Listen carefully because we care.
 
 The difficulty in asking questions is in formulating questions that a person has interest and would be willing to put thought to answer. Viewpoint questions invite a person to express thoughts and feelings. 
 
@@ -18,9 +18,9 @@ Improve our skill by following Jesus example in John 11:25,26. Pause, ask, and l
 
 #### Unleashing the Power of God's Word
 
-The Word of God helps discern the heart, and we can then help the person realize what he really is. It is alive and exerts power and is sharper than any two-edged swordn and pierces even to the dividing of soul* and spirit,* and of joints from the marrow, and is able to discern thoughts and intentions of the heart.(Hebrews 4:12)
+The Word of God helps discern the heart, and we can then help the person realize what he really is. It is alive and exerts power and is sharper than any two-edged sword and pierces even to the dividing of soul* and spirit,* and of joints from the marrow, and is able to discern thoughts and intentions of the heart.(Hebrews 4:12)
 
-When we open the Bible and read the scriptures, we are allowing God to do the talking. Paul went to Thessalonica and found people worshiping lifeless idols. Paul wrote in 1Thessalonians 1:9: "For they themselves keep reporting about our first contact with you and how you turned to God from your idolsi to slave for a living and true God," Further, he rejoiced: "Indeed, that is why we also thank God unceasingly,because when you received God’s word, which you heard from us, you accepted it not as the word of men but, just as it truthfully is, as the word of God, which is also at work in you believers."(1 Thessalonians 2:13)
+When we open the Bible and read the scriptures, we are allowing God to do the talking. Paul went to Thessalonica and found people worshiping lifeless idols. Paul wrote in 1Thessalonians 1:9: "For they themselves keep reporting about our first contact with you and how you turned to God from your idols to slave for a living and true God," Further, he rejoiced: "Indeed, that is why we also thank God unceasingly,because when you received God’s word, which you heard from us, you accepted it not as the word of men but, just as it truthfully is, as the word of God, which is also at work in you believers."(1 Thessalonians 2:13)
 
 We must read, use, explain the scriptures in our disciple work just as Jesus did. Ask questions about scriptures read. If the student "does not get it," reread the key words in the verse. Do not assume all understand words we use, like "the Kingdom." Be patient.
 
@@ -30,11 +30,11 @@ We must be patient. Slow good! It takes a lot of time to develop faith and appre
 
 * Helping a person see the Bible has practical, advice:
 
-What would you say is the key to getting along with people? May I read this a proverb, Proverbs 17:14? "Beginning a fight is like opening a floodgate; Before the quarrel breaks out, take your leave." Do you think this could help us get along with others? Another scripture: Continue putting up with one another and forgiving one another freely+even if anyone has a cause for complaint against another. Just as Jehovah* freely forgave you, you must also do the same. (Col. 3:13)
+What would you say is the key to getting along with people? May I read this a proverb, Proverbs 17:14? "Beginning a fight is like opening a floodgate; Before the quarrel breaks out, take your leave." Do you think this could help us get along with others? Another scripture: Continue putting up with one another and forgiving one another freely even if anyone has a cause for complaint against another. Just as Jehovah freely forgave you, you must also do the same. (Col. 3:13)
 
 * Helping with seeing the Bible as having reliable prophecy: 
 
-In Isaiah 13:19,20 "And Babylon, the most glorious* of kingdoms, The beauty and the pride of the Chal·deʹans, Will be like Sodʹom and Go·morʹrah when God overthrew them. She will never be inhabited, Nor will she be a place to reside in throughout all generations." Now, south of Baghdad, Iraq, are the ruins of Babylon where no one lives and no one has for centuries.
+In Isaiah 13:19,20 "And Babylon, the most glorious of kingdoms, The beauty and the pride of the Chal·deʹans, Will be like Sodʹom and Go·morʹrah when God overthrew them. She will never be inhabited, Nor will she be a place to reside in throughout all generations." Now, south of Baghdad, Iraq, are the ruins of Babylon where no one lives and no one has for centuries.
 
 * Helping to build faith that there is a Creator: 
 
@@ -110,8 +110,8 @@ Questions to help draw the inner feelings and thought processes of the student: 
 * What convinces you that ___?
 * How would you react if ___?
 
-As the person's love and understanding grows, he/she will be moved to make changes in their thinking to show love for God and faith in his guidance. "For this is what the love of God means, that we observe his commandments;"-1John 5:3.
+As the person's love and understanding grows, he/she will be moved to make changes in thinking to show love for God and faith in his guidance. "For this is what the love of God means, that we observe his commandments;"-1John 5:3.
 
-1 Thessalonians 2:19,20: " For what is our hope or joy or crown of exultation before our Lord Jesus at his presence? Is it not in fact you?u 20  You certainly are our glory and joy."
+1 Thessalonians 2:19,20: "For what is our hope or joy or crown of exultation before our Lord Jesus at his presence? Is it not in fact you?u 20  You certainly are our glory and joy."
 
-“God Is Love” “He that does not love has not come to know God, because God is love.”​—1 JOHN 4:8. That has always been my favorite scripture. To me it says it all in a nutshell as to who God is and how we are suppose to be. Knowing Jehovah God and what he intended and plans for us through the Bible and knowing the beauty of his creations would seem to be enough to draw all humans to him. We know, as we see the state of many people in this world, that this is not the case. But, most of us know that it seems there are still many who do or who are capable of loving God. We must find these people, his sheep, and unite (or re-unite them with God and Jesus, so they may find the joy of loving and serving Him now and in his restored earthly paradise.
+“God Is Love” “He that does not love has not come to know God, because God is love.”​—1 JOHN 4:8. That has always been my favorite scripture. To me it says it all in a nutshell as to who God is and how we are suppose to be. Knowing Jehovah God and what he intended and plans for us through the Bible and knowing the beauty of his creations would seem to be enough to draw all humans to him. We know, as we see the state of many people in this world, that this is not the case. But, most of us know that it seems there are still many who do or who are capable of loving God. We must find these people, his sheep, and unite (or re-unite them with God and Jesus, so they may find the joy of loving and serving Him now and in his restored earthly paradise.)
