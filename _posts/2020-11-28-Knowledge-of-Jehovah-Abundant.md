@@ -10,6 +10,4 @@ Next checkout these prophecies: [Daniel 12:4](https://www.jw.org/en/library/bibl
 
 Actually, I was trying to find the scripture(s) I mentioned in the first paragraph, and I stumbled on for today, [Saturday, November 28](https://wol.jw.org/en/wol/h/r1/lp-e). Good grief! This happens so much to me. I find things, even by accident, related to what I am trying to find or express at the moment, and this one was posted today, this morning! What?! Wow! When I saw the date, I looked all over for a year, thinking it must be from another year. (Update: I bookmarked this page since I found it is where the daily text/scripture is posted. Since I use my computer instead of the JW app, it does not pop up on the top of my computer page as is the case with the app.)
 
-[Earnestly](https://www.jw.org/en/library/bible/study-bible/books/hebrews/11/#v58011006) Seek and find! [Matthew 7:7](https://www.jw.org/en/library/bible/study-bible/books/matthew/7/#v40007007) and [Luke 11:9](https://www.jw.org/en/library/bible/study-bible/books/luke/11/#v42011009)
-
-[Hebrews 11:6](https://www.jw.org/en/library/bible/study-bible/books/hebrews/11/#v58011006)
+[Earnestly](https://www.jw.org/en/library/bible/study-bible/books/hebrews/11/#v58011006) Seek and find! [Matthew 7:7](https://www.jw.org/en/library/bible/study-bible/books/matthew/7/#v40007007), [Luke 11:9](https://www.jw.org/en/library/bible/study-bible/books/luke/11/#v42011009), and [Hebrews 11:6](https://www.jw.org/en/library/bible/study-bible/books/hebrews/11/#v58011006)
