@@ -4,7 +4,7 @@ title: When They Sic the Dog on You
 category: GOD
 ---
 
-[AudChoc](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-12/sb/_chcaudszch_-82842389.jpg?ts=1608142155)
+![AudChoc](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-12/sb/_chcaudszch_-82842389.jpg?ts=1608142155)
 
 A new family came to take me to my new home. My new owner also came with a friend and her sheep-dog. At my new home the friend, decided they needed the dog to help get me in line with the group. They feared I am like other dumb breeds that need to be herded. 
 
