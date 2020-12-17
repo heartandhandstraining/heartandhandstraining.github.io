@@ -6,8 +6,18 @@ category: GOD
 
 ![AudChoc](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-12/sb/_chcaudszch_-82842389.jpg?ts=1608142155)
 
-A new family came to take me to my new home. My new owner also came with a friend and her sheep-dog. At my new home the friend, decided they needed the dog to help get me in line with the group. They feared I am like other dumb breeds that need to be herded. 
+My name is Chocolate and you see my son, "Zach" and a member of my human family. When I was a teen and before my son came along, my new human family came to take me to this new home. My new family brought my brothers and sisters and I home with a shepherd friend and her sheep-dog assisting with the trip and delivery. At my new home the shepherd friend decided she needed the dog to help get me in line with the group. They feared I am like sheep from other modern breeds that need to be herded. I was totally caught off guard, scared for my life. The dog chased me down the highway.
 
-It was definitely a scare, and it was hard to pick myself up after dealing with someone and their dog, who does not know me. I did not have that experience but once and hopefully, I can keep that from happening ever again. God knows my heart and he heals it and helps me cope with unintentionally stumblings as this. I was sick for awhile from that stressful event. My new owners gave me lots of TLC to help me get better, and I came to trust my new human family as much as my own sheep family. 
+They captured me and brought me back. It was hard to pick myself back up after dealing with the person and her dog, who simply just did not know me. I had "stress pneumonia" for a short while after that stressful event. My new owners gave me lots of garlic and TLC to help me get better. I came to trust my new human family as much as my own sheep family. 
 
-It is hard to be misunderstood but it helps that I have some understanding of those that misunderstand, since it is in part my fault because the initial immpression I give off. As silly as it sounds, my owner says it is typical those of my color, but at least there is that understanding.
+I did not have that experience but once so far, and hopefully, I will keep that from happening ever again! Life has long been pretty smooth again. My primitive sheep family has special connection to God, who knows hearts and also heals them, and helps those in need of coping with unintentional adverse trials. 
+
+It is hard to be misunderstood but it helps that I have have some understanding of those that misunderstand me.  My personality is just not the same as those modern breeds of sheep that need to be rounded up and put in place by a dog. As silly as it sounds, my owner says it is, especially, typical of those of my color, but at least they do now have that understanding.
+
+## “Commit your way to Jehovah”
+
+[Psalm 37:5, 6](https://www.jw.org/en/library/bible/study-bible/books/psalms/37/#v19037005-v19037006)
+
+* Have complete trust that Jehovah will help you handle any problem.
+
+* Maintain good conduct in the face of opposition, persecution, or misrepresentation.
