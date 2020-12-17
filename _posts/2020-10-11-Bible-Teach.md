@@ -42,4 +42,6 @@ I am just getting started on going through the 2 currently "required" books for 
 
 - [Choose to Worship God](https://www.keepandshare.com/doc/8254575/chapter-16-choose-to-worship-god?ifr=y#summary)
 
+- [The Privilege of Prayer](https://www.keepandshare.com/doc/8254576/chapter-17-the-privilege-of-prayer?ifr=y)
+
 [How to Remain in God's Love](https://www.jw.org/en/library/books/in-gods-love/)
