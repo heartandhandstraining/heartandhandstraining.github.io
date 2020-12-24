@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sheep Need Protection
-category: GOD
+category: SHEEP
 ---
 
 I have long felt so heavy-hearted about losing 1 of my very best ewes very early in my 13 years of raising them, the same ewe who stood behind with an injured lamb that was not hers until I came to help it. I was new at raising these primitive breed sheep (the kind that would have been in Bible times). I was told about these leader ewes and how these sheep in general needed less oversight than modern day sheep.

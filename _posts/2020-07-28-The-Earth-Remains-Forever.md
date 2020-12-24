@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Earth Remains Forever
-category: GOD, WEB
+category: SVG
 ---
 
 More spiritual lessons beckon, which I will try to incorporate some technology in sharing. Refresh your page to see from start to finish, not much but this may be my finished version of this animation. 

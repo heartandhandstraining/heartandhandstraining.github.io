@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When They Sic the Dog on You
-category: GOD
+category: SHEEP
 ---
 
 ![AudChoc](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-12/sb/_chcaudszch_-82842389.jpg?ts=1608142155)
@@ -13,11 +13,3 @@ They captured me and brought me back. It was hard to pick myself back up after d
 I did not have that experience but once so far, and hopefully, I will keep that from happening ever again! Life has long been pretty smooth again. My primitive sheep family has special connection to God, who knows hearts and also heals them, and helps those in need of coping with unintentional adverse trials. 
 
 It is hard to be misunderstood but it helps that I have have some understanding of those that misunderstand me.  My personality is just not the same as those modern breeds of sheep that need to be rounded up and put in place by a dog. As silly as it sounds, my owner says it is, especially, typical of those of my color, but at least they do now have that understanding.
-
-## “Commit your way to Jehovah”
-
-[Psalm 37:5, 6](https://www.jw.org/en/library/bible/study-bible/books/psalms/37/#v19037005-v19037006)
-
-* Have complete trust that Jehovah will help you handle any problem.
-
-* Maintain good conduct in the face of opposition, persecution, or misrepresentation.

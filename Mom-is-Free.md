@@ -3,7 +3,7 @@ layout: page
 title: Mom is Free
 date: 2020-08-21
 tagline:
-category: GOD
+category: BIBLE, SHEEP
 ---
 ![Mom visiting her Dad, Grandpa Wood](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-07/sb/mom_gpa-38033076.jpg?ts=1595969689)
 Above is Mom visiting her Dad/Grandpa Wood, an avid Bible enthusiast, in Grand Junction, ~1979. This page was added to periodically over a few months, from Mom’s death on April 01, 2020 to about July 2020, because I wanted to say so much more than at this link: [Sandra Beattie](https://www.hkfuneralhome.com/en-memorium/sandra-d-beattie). I probably did not say all (probably plenty of typos…), but I have said a lot and have decided to move on with memory of Mom and Dad in mind.
