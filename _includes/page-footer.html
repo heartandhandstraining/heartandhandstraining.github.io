@@ -1,7 +1,18 @@
 <footer id="footer-icons" class="site-footer"> 
    <!-- Contact and Home icons -->
-  <hr/> 
   <center>
+   {% if page.title == 'Contact About' %}
+   <hr/>
+   <a 
+   title="For God loved the world so ..." 
+   href="https://www.jw.org/en/library/bible/study-bible/books/john/3/#v43003016" 
+   target="_blank">
+   John 3:16
+   </a>
+   <hr/>
+   {% else %}
+   <hr/>
+   {% endif %}
    <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
