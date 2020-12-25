@@ -15,9 +15,6 @@ tagline: Helpful External Links
 **Insight on the Scriptures**
 [Volumes 1 & 2](https://wol.jw.org/en/wol/library/r1/lp-e/all-publications/insight)
 
-**From Watchtower Bible & Tract Society**
-[Life—How Did It Get Here? By Evolution or by Creation?](https://wol.jw.org/en/wol/publication/r1/lp-e/ce)all-publications/insight)
-
 **Other Theocratic Resources Sites**
 [Strictly Genteel for Older Books](http://www.strictlygenteel.co.uk/index.html)
 
