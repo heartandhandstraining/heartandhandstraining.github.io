@@ -12,8 +12,11 @@ tagline: Helpful External Links
 **Bible Study Aids**
 [Study Tips](https://www.keepandshare.com/doc/8256091/make-your-bible-study-more-effective?ifr=y), [Books](https://wol.jw.org/en/wol/library/r1/lp-e/all-publications/books), [Magazines](https://www.jw.org/en/library/magazines/), [Songs](https://www.jw.org/en/library/music-songs/), [Videos](https://www.jw.org/en/library/videos/#en/home), [Conventions](https://www.jw.org/en/jehovahs-witnesses/conventions/)
 
+**Insight on the Scriptures**
+[Volumes 1 & 2](https://wol.jw.org/en/wol/library/r1/lp-e/all-publications/insight)
+
 **From Watchtower Bible & Tract Society**
-[Life—How Did It Get Here? By Evolution or by Creation?](https://wol.jw.org/en/wol/publication/r1/lp-e/ce), [Aid to Bible Understanding](https://www.keepandshare.com/doc/8254193/aid-bible-understanding-1971-pdf-128-9-meg)
+[Life—How Did It Get Here? By Evolution or by Creation?](https://wol.jw.org/en/wol/publication/r1/lp-e/ce)all-publications/insight)
 
 **Other Theocratic Resources Sites**
 [Strictly Genteel for Older Books](http://www.strictlygenteel.co.uk/index.html)
