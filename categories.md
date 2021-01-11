@@ -7,8 +7,6 @@ tagline: Topics and Posts List
 ---
 
 <div class = "container-fluid">
-<li><a href="{{ site.baseurl }}/Mom-is-Free/">{{ "Mom is Free" }}</a>
-    </li>
 {% for category in site.categories %}
   {% capture category_name %}{{ category | first }}{% endcapture %}
   <a id="{{ category_name | slugize }}">
