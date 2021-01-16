@@ -5,9 +5,6 @@ tagline: Helpful External Links
 ---
 
 # Resource Links
-#### BIBLE
-**Bible Education**
-[JW.ORG](https://jw.org/) and its [footer app links](https://jw.org/#footer), [Online Bible Study](https://www.jw.org/en/bible-teachings/online-lessons/)
 #### SHEEP
 **Primitive Breed**
 [color genetics](https://www.icelandicsheep.com/resources/articles/color-genetics-in-icelandic-sheep/)
