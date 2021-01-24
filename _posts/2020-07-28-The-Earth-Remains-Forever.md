@@ -4,7 +4,7 @@ title: The Earth Remains Forever
 category: SVG
 ---
 
-Just practice SVG animations... Will the earth be destroyed?
+Just practicing SVG animations... Will the earth be destroyed?
 
 {::nomarkdown}
 <svg version="1.0"  viewBox="-10 -35 217 217" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
