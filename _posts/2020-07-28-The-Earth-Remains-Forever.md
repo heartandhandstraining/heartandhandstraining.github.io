@@ -4,8 +4,6 @@ title: The Earth Remains Forever
 category: SVG
 ---
 
-More spiritual lessons beckon, which I will try to incorporate some technology in sharing. Refresh your page to see from start to finish, not much but this may be my finished version of this animation. 
-
 As a child in Sunday school, I really was not excited about going to 'heaven,' because my experiences at that time here on earth were so amazing living out by the mines outside Jeffrey City, WY. Therefore, I was glad to learn this Bible truth by the time I was in 4th or 5th grade! There is so much beauty in nature, and I have always enjoyed learning and doing so many things, so much so that it frustrating that I cannot pursue all subjects of knowledge and skill because I know life is currently limited. Learning that life can be forever then lifts that frustration away. I will have plenty of time in the future to endlessly pursue anything and everything! And, contrary to popular belief, God will not let the earth be ruined.
 
 {::nomarkdown}
