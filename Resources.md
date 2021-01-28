@@ -15,7 +15,5 @@ tagline: Helpful External Links
 **Pre-commit hook**
 [to update date on jekyll-githbub pages](https://stackoverflow.com/questions/14978474/)
 
-**SVG w/ css animation sample**
-[doneasy1.com](https://www.doneasy1.com) Click the POWER button on the generator.
-
-[nomoreseptic.com](https://www.nomoreseptic.com) NOTE: Animation of the pipe uses only css acting the html.
+**SVG w/ css animation samples**
+[doneasy1.com](https://www.doneasy1.com) (Click the POWER button on the generator.); [nomoreseptic.com](https://www.nomoreseptic.com) (Animation of the pipe uses only css acting the html.)
