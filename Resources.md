@@ -16,4 +16,4 @@ tagline: Helpful External Links
 [to update date on jekyll-githbub pages](https://stackoverflow.com/questions/14978474/)
 
 **SVG w/ css animation samples**
-[doneasy1.com](https://www.doneasy1.com) (Click the POWER button on the generator.); [nomoreseptic.com](https://www.nomoreseptic.com) (Animation of the pipe uses only css acting the html.)
+[doneasy1.com](https://www.doneasy1.com) (Click the POWER button on the generator.); [nomoreseptic.com](https://www.nomoreseptic.com) (Animation of the pipe uses only css on html.)
