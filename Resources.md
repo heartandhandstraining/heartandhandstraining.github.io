@@ -7,7 +7,7 @@ tagline: Helpful External Links
 # Resource Links
 #### SHEEP
 **Primitive Breed**
-[color genetics](https://www.icelandicsheep.com/resources/articles/color-genetics-in-icelandic-sheep/)
+[color genetics](https://www.icelandicsheep.com/resources/articles/color-genetics-in-icelandic-sheep/),[Listen only to their Master](https://youtu.be/e45dVgWgV64)
 #### WEB
 **gh-pages baseurl**
 [Clearing Up Confusion Around baseurl -- Again](https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/)
