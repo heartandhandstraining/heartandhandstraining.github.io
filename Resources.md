@@ -17,3 +17,5 @@ tagline: Helpful External Links
 
 **SVG w/ css animation sample**
 [doneasy1.com](https://www.doneasy1.com) Click the POWER button on the generator.
+
+[nomoreseptic.com] (https://www.nomoreseptic.com) NOTE: Animation of the pipe uses only css acting the html.
