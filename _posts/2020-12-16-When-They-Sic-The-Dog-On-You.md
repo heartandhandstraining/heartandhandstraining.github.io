@@ -10,6 +10,6 @@ My name is Chocolate and you see my son, "Zach" and a member of my human family.
 
 They captured me and brought me back. It was hard to pick myself back up after dealing with the person and her dog, who simply just did not know me. I had "stress pneumonia" for a short while after that stressful event. My new owners gave me lots of garlic and TLC to help me get better. I came to trust my new human family as much as my own sheep family. 
 
-I did not have that experience but once so far, and hopefully, I will keep that from happening ever again! My primitive sheep family has long had special connection to God, who knows hearts and also heals them, and he helps his sheep help in coping with unintentional adverse trials. 
+I did not have that experience but once so far, and hopefully, I will keep that from happening ever again! My primitive sheep family has long had special connection to God, who knows hearts and also heals them, and he helps in coping with unintentional adverse trials. This is the biggest thing that I hang on to regardless of what my situation is, but it is nice to have a good sheep and human family, too.
 
 It is hard to be misunderstood but it helps that I have have some understanding of those that misunderstand me.  My personality is just not the same as those modern breeds of sheep that need to be rounded up and put in place by a dog. As silly as it sounds, my owner says it is, especially, typical of those of my color, but at least they do now have that understanding.
