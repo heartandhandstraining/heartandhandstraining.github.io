@@ -20,7 +20,7 @@ This function can be utilized by **Google account users** to send automated emai
 
 ## Example
 
-![spreadsheet](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-01/sb/screen_shot_2020_01_16_at_1.12.56_pm-778521.jpg?ts=1579209261)
+![spreadsheet](https://www.keepandshare.com/userpics/d/_/a/_/b/2020-01/sb/screen_shot_2020_01_16_at_1.12.56_pm-778521.jpg?ts=1579209261)
 
 ```
 function sendEmails() {
