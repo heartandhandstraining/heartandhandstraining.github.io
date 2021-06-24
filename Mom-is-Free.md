@@ -13,6 +13,7 @@ category: BIBLE, SHEEP
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_viewcart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+<iframe src="https://www.keepandshare.com/photo/547678/clems-and-clems-handcards?ifr=y" width="900" height="700" scrolling="yes" frameborder="1"></iframe>
 </center>
 ![Mom visiting her Dad, Grandpa Wood](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2020-07/sb/mom_gpa-38033076.jpg?ts=1595969689)
 Above is Mom visiting her Dad/Grandpa Wood, an avid Bible enthusiast, in Grand Junction, ~1979. This page was added to periodically over a few months, from Mom’s death on April 01, 2020 to about July 2020, because I wanted to say so much more than at this link: [Sandra Beattie](https://www.hkfuneralhome.com/en-memorium/sandra-d-beattie). I probably did not say all (probably plenty of typos…), but I have said a lot and have decided to move on with memory of Mom and Dad in mind.
