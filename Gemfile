@@ -14,10 +14,10 @@ source "https://rubygems.org"
   # If you have any plugins, put them here!
   group :jekyll_plugins do
     gem "jekyll-feed", "~> 0.11.0"
-    gem "jekyll-last-modified-at", ">= 1.2.1"
+    gem "jekyll-last-modified-at", ">= 1.3.0"
   end
 
-gem "minima", "~> 2.5"
+gem "minima", "~> 2.5", ">= 2.5.0"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
